@@ -1,0 +1,10 @@
+{
+   "name": "webrtc-audiochat",
+   "version": "0.1.0",
+   "description": "webrtc-audiochat",
+   "author": "Author",
+   "license": "BSD-2-Clause",
+   "dependencies": {
+      "bootstrap": "^4.2.1"
+   }
+}
