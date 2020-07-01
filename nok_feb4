@@ -1,0 +1,857 @@
+root@arrisxg1v3:/opt/logs# tail -f receiver.log
+2020 Feb 04 07:01:22.772472 arrisxg1v3 runAppManager.sh[24623]: broadcast for surfaceId 1 name noname
+2020 Feb 04 07:01:22.861549 arrisxg1v3 Receiver[25043]:  Thread-25043 [GraphicsTree] - Add to texture cache [1280x720] of type 0, exp date: 631584001: -1,-1,https://icDfliZd:fTyvruCs@xh01-relay07-ch2.xfinityhome.com:443/video/cac9e8eb24c7bf6679516ac63e05f283/image.jpg?size=large&updateTime=1580799677483
+2020 Feb 04 07:01:22.970290 arrisxg1v3 Receiver[25043]:  Thread-25043 [XREApplication] - __PLOG__ launchMetrics segment:LAUNCH_COMPLETED elapsedTime:9527 appId:teamliberty.xfinityhome.preview appName:homeApp sessionGUID:f56bc734-40da-4946-b59b-1d905b4a2c30 SerTime=1580799683382 threadId=11308056 recTime=1580799682970
+2020 Feb 04 07:01:23.156959 arrisxg1v3 Receiver[25043]:  Thread-25043 [ImageResource] - App Name: [homeApp] Image download Request url: [https://livecache-read-cvr-aws-eu1.sys.comcast.net/user/7894B4F3F815/thumbnail?token=eyJraWQiOiJocy1jdnIiLCJhbGciOiJSUzI1NiJ9.eyJjYW1lcmEiOiI3ODk0QjRGM0Y4MTUiLCJtYWNzIjpbeyJjYW1lcmEiOiI3ODk0QjRGM0Y4MTUiLCJ4Ym9fZGV2aWNlX2lkIjoiMjM2NzQxMzI1MDQ1NjA5MjA2IiwiY3JlYXRlZF90aW1lIjoxNTc3NDUxNzcwOTg1fV0sInhib19hY2NvdW50IjoiODcwNjcxOTI0NzUyNDU0MTY1MyIsInN1YnNjcmliZXIiOltudWxsLCI1NDI5MDY1NzEwMTIwMjIwMTlDb21jYXN0LlJUVkUiLCI4NzA2NzE5MjQ3NTI0NTQxNjUzIl0sInBhcnRuZXIiOiJjb21jYXN0IiwiaWF0IjoxNTgwNzk5Njc2LCJleHAiOjE1ODA4MDAyNzZ9.Jg3Aa7Qu0eCfM0s7mw1NTq19Q-_DewetT2OKkp63n8TY_EDWT1yLPW_-N_499EKlI3H-35qUSrhM5y2XnDePf3_rC7U4hgKA2APGmXoZqgAqZcbOOsiVMZE09JMsIca4awM6HSWW8WAQBaS2QRa-1zxMQuMQMrJdTNPIfa4009NTwRfjcWt3VTzmGWutDtZ_DwQuOEpxp1J2LopP1thlSb9Uf9QtJIRa0VODlxTyGQLwuoBdVZpSwU7LgwlmXrNIu4YEOk4TXwqIMIXLGy_ATWwkE3dRDBaxR5FQckecOAb_6ZrnvacX3LyEeByguZ9SXL736qpE0ZQHEuE-XNCzag&access_token=CgNPQVQQARgCIoABjmxTWy1pgbu9MJA2SbhB_niGzd0czPQPHMeNCbzY_syT_9gYCG2Xh4gjLOV55uI8XcaHwIOHciba7W7y4L96CRRNXRa77sg-Imi0ZcInkbjw_UbEJ9lR5H8-pfrQZ6klBrOK796KUuW9b4fkSs44pxeOHLMJvgAX7pa_6Nkn7roqENEIK3RQkQW7I8tU_L91gWgyUQoodXJuOmNpbWE6b2F1dGg6djI6YWNjZXNzLXRva2VuOmVuY3J5cHQ6MRIldXJuOmNpbWE6b2F1dGg6djI6YWNjZXNzLXRva2VuOnNpZ246MTqgAnMSyFsq26cl9rNEOSAjwB_WZft6o9wnQLuVuJiQ_AD3dG2rAKjdKytxzcl_X1LyB6QBwVbu2ISt1fHIIwo4A_j2CnBr75O2DXBkDcdkuy9z0Gl1eINc45OD34Pk4uJUL30UO_Du3EMHwCMPnz1oNOEzoagvIBDkjHmBfkjaL9xIqTP6zom98n9RtDJ_nhLC57_xdBKvHaLpdKDdyQOdk6eWYtvkSdEt7L3HMNhWvtYWdT70GSViHYdQ4iIXQAshelfXA8o5bcovdu4_OB-7Jzj1FWMupRmflOQrevgj7-RBVuKIMoDyICpZiPGLNFolTSDe89nyNO-4JVhTCsF3kjMHwo5IHTDi0jl3HKYj6a4VtZ4vi4grtQGc1vTJekAALg**&count=1], calling LoadImage
+2020 Feb 04 07:01:24.440060 arrisxg1v3 Receiver[25043]:  Thread-25043 [GraphicsTree] - Add to texture cache [640x360] of type 0, exp date: 1580799714: -1,-1,https://livecache-read-cvr-aws-eu1.sys.comcast.net/user/7894B4F3F815/thumbnail?token=eyJraWQiOiJocy1jdnIiLCJhbGciOiJSUzI1NiJ9.eyJjYW1lcmEiOiI3ODk0QjRGM0Y4MTUiLCJtYWNzIjpbeyJjYW1lcmEiOiI3ODk0QjRGM0Y4MTUiLCJ4Ym9fZGV2aWNlX2lkIjoiMjM2NzQxMzI1MDQ1NjA5MjA2IiwiY3JlYXRlZF90aW1lIjoxNTc3NDUxNzcwOTg1fV0sInhib19hY2NvdW50IjoiODcwNjcxOTI0NzUyNDU0MTY1MyIsInN1YnNjcmliZXIiOltudWxsLCI1NDI5MDY1NzEwMTIwMjIwMTlDb21jYXN0LlJUVkUiLCI4NzA2NzE5MjQ3NTI0NTQxNjUzIl0sInBhcnRuZXIiOiJjb21jYXN0IiwiaWF0IjoxNTgwNzk5Njc2LCJleHAiOjE1ODA4MDAyNzZ9.Jg3Aa7Qu0eCfM0s7mw1NTq19Q-_DewetT2OKkp63n8TY_EDWT1yLPW_-N_499EKlI3H-35qUSrhM5y2XnDePf3_rC7U4hgKA2APGmXoZqgAqZcbOOsiVMZE09JMsIca4awM6HSWW8WAQBaS2QRa-1zxMQuMQMrJdTNPIfa4009NTwRfjcWt3VTzmGWutDtZ_DwQuOEpxp1J2LopP1thlSb9Uf9QtJIRa0VODlxTyGQLwuoBdVZpSwU7LgwlmXrNIu4YEOk4TXwqIMIXLGy_ATWwkE3dRDBaxR5FQckecOAb_6ZrnvacX3LyEeByguZ9SXL736qpE0ZQHEuE-XNCzag&access_token=CgNPQVQQARgCIoABjmxTWy1pgbu9MJA2SbhB_niGzd0czPQPHMeNCbzY_syT_9gYCG2Xh4gjLOV55uI8XcaHwIOHciba7W7y4L96CRRNXRa77sg-Imi0ZcInkbjw_UbEJ9lR5H8-pfrQZ6klBrOK796KUuW9b4fkSs44pxeOHLMJvgAX7pa_6Nkn7roqENEIK3RQkQW7I8tU_L91gWgyUQoodXJuOmNpbWE6b2F1dGg6djI6YWNjZXNzLXRva2VuOmVuY3J5cHQ6MRIldXJuOmNpbWE6b2F1dGg6djI6YWNjZXNzLXRva2VuOnNpZ246MTqgAnMSyFsq26cl9rNEOSAjwB_WZft6o9wnQLuVuJiQ_AD3dG2rAKjdKytxzcl_X1LyB6QBwVbu2ISt1fHIIwo4A_j2CnBr75O2DXBkDcdkuy9z0Gl1eINc45OD34Pk4uJUL30UO_Du3EMHwCMPnz1oNOEzoagvIBDkjHmBfkjaL9xIqTP6zom98n9RtDJ_nhLC57_xdBKvHaLpdKDdyQOdk6eWYtvkSdEt7L3HMNhWvtYWdT70GSViHYdQ4iIXQAshelfXA8o5bcovdu4_OB-7Jzj1FWMupRmflOQrevgj7-RBVuKIMoDyICpZiPGLNFolTSDe89nyNO-4JVhTCsF3kjMHwo5IHTDi0jl3HKYj6a4VtZ4vi4grtQGc1vTJekAALg**&count=1
+2020 Feb 04 07:01:25.206705 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:25.204789 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onLoadFinished:rdkbrowser.cpp:957 [success: true] https://prod-hero-3a-w2a.homeapp.xcal.tv/com/comcast/xre/home/resources/nextgenvideo/nextgenvideo.html?preLaunch=true statusCode = 200
+2020 Feb 04 07:01:25.207555 arrisxg1v3 runAppManager.sh[24623]: success:1 url:https://prod-hero-3a-w2a.homeapp.xcal.tv/com/comcast/xre/home/resources/nextgenvideo/nextgenvideo.html?preLaunch=true
+2020 Feb 04 07:01:25.233903 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:25.204967 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onLoadFinished:rdkbrowser.cpp:975 TELEMETRY_TIME2LOAD_URL_https://prod-hero-3a-w2a.homeapp.xcal.tv/com/comcast/xre/home/resources/nextgenvideo/nextgenvideo.html?preLaunch=true:8520
+2020 Feb 04 07:01:25.251946 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:25.205310 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:882]: Bridge Object is inactive
+2020 Feb 04 07:01:26.686834 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]aamp_AppendBytes:1330 WARNING - realloc. buf 0x567e8c avail 188260 required 188282
+!!!Error (0x8) at nexus/modules/surface_compositor/src/nexus_surface_client.c:663
+2020 Feb 04 07:01:49.688411 arrisxg1v3 Receiver[25043]: [78B blob data]
+2020 Feb 04 07:01:49.688502 arrisxg1v3 Receiver[25043]: [92B blob data]
+2020 Feb 04 07:01:49.688948 arrisxg1v3 Receiver[25043]:  Thread-25579 [LocalInput] - XREKeyPressLog IR KEY 82 8000 received
+2020 Feb 04 07:01:49.689181 arrisxg1v3 Receiver[25043]:  Thread-25579 [LocalInput] - XREKeyPressLog XRE Stack Adapter processKey enter with key=0x82 and type=down
+2020 Feb 04 07:01:49.692279 arrisxg1v3 Receiver[25043]:  Thread-25043 [CEventDispatcher] - There is no keyevent handler registered for the Preview view. Dropping the key events for the application shell:homeApp
+2020 Feb 04 07:01:49.692397 arrisxg1v3 Receiver[25043]:  Thread-25043 [CEventDispatcher] - There is no keyevent handler registered for the Standard view. Dropping the key events.
+2020 Feb 04 07:01:49.692496 arrisxg1v3 Receiver[25043]:  Thread-25043 [ApplicationResource] - sending echo event with id: 4
+2020 Feb 04 07:01:49.693504 arrisxg1v3 Receiver[25043]:  Thread-25043 [ApplicationResource] - sending echo event with id: 5
+2020 Feb 04 07:01:49.693842 arrisxg1v3 Receiver[25043]:  Thread-25043 [ApplicationResource] - sending echo event with id: 6
+2020 Feb 04 07:01:49.694076 arrisxg1v3 Receiver[25043]:  Thread-4458 [ECM] - XREKeyPressLog Keyevent sent to server: {"timestamp":1580799709693,"phase":"PREVIEW","event":85,"name":"onPreviewKeyDown","source":2116,"params":{"keySource":"physical","meta":false,"control":false,"shift":false,"tid":"5b0a8c19-274c-4a29-bfe0-9b0d13cbdab4","alt":false,"virtualKeyCode":"DOWN","elapsedMs":115,"rawCode":0},"handler":2}
+2020 Feb 04 07:01:49.695075 arrisxg1v3 Receiver[25043]:  Thread-29759 [ECM] - XREKeyPressLog Keyevent sent to server: {"timestamp":1580799709694,"phase":"PREVIEW","event":130,"name":"onPreviewKeyDown","source":2129,"params":{"keySource":"physical","meta":false,"control":false,"shift":false,"tid":"5b0a8c19-274c-4a29-bfe0-9b0d13cbdab4","alt":false,"virtualKeyCode":"DOWN","elapsedMs":0,"rawCode":0},"handler":2}
+2020 Feb 04 07:01:49.695873 arrisxg1v3 Receiver[25043]:  Thread-29759 [ECM] - XREKeyPressLog Keyevent sent to server: {"timestamp":1580799709695,"phase":"PREVIEW","event":131,"name":"onPreviewKeyDown","source":2129,"params":{"keySource":"physical","meta":false,"control":false,"shift":false,"tid":"5b0a8c19-274c-4a29-bfe0-9b0d13cbdab4","alt":false,"virtualKeyCode":"DOWN","elapsedMs":131077,"rawCode":0},"handler":2049}
+2020 Feb 04 07:01:49.811660 arrisxg1v3 Receiver[25043]: [78B blob data]
+2020 Feb 04 07:01:49.811758 arrisxg1v3 Receiver[25043]: [92B blob data]
+2020 Feb 04 07:01:49.811941 arrisxg1v3 Receiver[25043]:  Thread-25579 [LocalInput] - XREKeyPressLog IR KEY 82 8100 received
+2020 Feb 04 07:01:49.812156 arrisxg1v3 Receiver[25043]:  Thread-25579 [LocalInput] - XREKeyPressLog XRE Stack Adapter processKey enter with key=0x82 and type=up
+2020 Feb 04 07:01:49.813082 arrisxg1v3 Receiver[25043]:  Thread-25043 [CEventDispatcher] - There is no keyevent handler registered for the Preview view. Dropping the key events for the application shell:homeApp
+2020 Feb 04 07:01:49.813189 arrisxg1v3 Receiver[25043]:  Thread-25043 [CEventDispatcher] - There is no keyevent handler registered for the Standard view. Dropping the key events.
+2020 Feb 04 07:01:50.224889 arrisxg1v3 Receiver[25043]:  Thread-25043 [Commands] - Echo response received for guid 4 - totalTime = 528 sendTime = 952 receiveTime = -424 networkTime = 528 serverTime = 0
+2020 Feb 04 07:01:50.225020 arrisxg1v3 Receiver[25043]:  Thread-25043 [Commands] - Echo response received for guid 5 - totalTime = 528 sendTime = 952 receiveTime = -424 networkTime = 528 serverTime = 0
+2020 Feb 04 07:01:50.225120 arrisxg1v3 Receiver[25043]:  Thread-25043 [Commands] - Echo response received for guid 6 - totalTime = 516 sendTime = 940 receiveTime = -424 networkTime = 516 serverTime = 0
+2020 Feb 04 07:01:50.280773 arrisxg1v3 Receiver[25043]:  Thread-25043 [ImageResource] - App Name: [homeApp] Image download Request url: [https://livecache-read-cvr-aws-eu1.sys.comcast.net/user/7894B4F3F815/thumbnail?token=eyJraWQiOiJocy1jdnIiLCJhbGciOiJSUzI1NiJ9.eyJjYW1lcmEiOiI3ODk0QjRGM0Y4MTUiLCJtYWNzIjpbeyJjYW1lcmEiOiI3ODk0QjRGM0Y4MTUiLCJ4Ym9fZGV2aWNlX2lkIjoiMjM2NzQxMzI1MDQ1NjA5MjA2IiwiY3JlYXRlZF90aW1lIjoxNTc3NDUxNzcwOTg1fV0sInhib19hY2NvdW50IjoiODcwNjcxOTI0NzUyNDU0MTY1MyIsInN1YnNjcmliZXIiOltudWxsLCI1NDI5MDY1NzEwMTIwMjIwMTlDb21jYXN0LlJUVkUiLCI4NzA2NzE5MjQ3NTI0NTQxNjUzIl0sInBhcnRuZXIiOiJjb21jYXN0IiwiaWF0IjoxNTgwNzk5Njc2LCJleHAiOjE1ODA4MDAyNzZ9.Jg3Aa7Qu0eCfM0s7mw1NTq19Q-_DewetT2OKkp63n8TY_EDWT1yLPW_-N_499EKlI3H-35qUSrhM5y2XnDePf3_rC7U4hgKA2APGmXoZqgAqZcbOOsiVMZE09JMsIca4awM6HSWW8WAQBaS2QRa-1zxMQuMQMrJdTNPIfa4009NTwRfjcWt3VTzmGWutDtZ_DwQuOEpxp1J2LopP1thlSb9Uf9QtJIRa0VODlxTyGQLwuoBdVZpSwU7LgwlmXrNIu4YEOk4TXwqIMIXLGy_ATWwkE3dRDBaxR5FQckecOAb_6ZrnvacX3LyEeByguZ9SXL736qpE0ZQHEuE-XNCzag&access_token=CgNPQVQQARgCIoABjmxTWy1pgbu9MJA2SbhB_niGzd0czPQPHMeNCbzY_syT_9gYCG2Xh4gjLOV55uI8XcaHwIOHciba7W7y4L96CRRNXRa77sg-Imi0ZcInkbjw_UbEJ9lR5H8-pfrQZ6klBrOK796KUuW9b4fkSs44pxeOHLMJvgAX7pa_6Nkn7roqENEIK3RQkQW7I8tU_L91gWgyUQoodXJuOmNpbWE6b2F1dGg6djI6YWNjZXNzLXRva2VuOmVuY3J5cHQ6MRIldXJuOmNpbWE6b2F1dGg6djI6YWNjZXNzLXRva2VuOnNpZ246MTqgAnMSyFsq26cl9rNEOSAjwB_WZft6o9wnQLuVuJiQ_AD3dG2rAKjdKytxzcl_X1LyB6QBwVbu2ISt1fHIIwo4A_j2CnBr75O2DXBkDcdkuy9z0Gl1eINc45OD34Pk4uJUL30UO_Du3EMHwCMPnz1oNOEzoagvIBDkjHmBfkjaL9xIqTP6zom98n9RtDJ_nhLC57_xdBKvHaLpdKDdyQOdk6eWYtvkSdEt7L3HMNhWvtYWdT70GSViHYdQ4iIXQAshelfXA8o5bcovdu4_OB-7Jzj1FWMupRmflOQrevgj7-RBVuKIMoDyICpZiPGLNFolTSDe89nyNO-4JVhTCsF3kjMHwo5IHTDi0jl3HKYj6a4VtZ4vi4grtQGc1vTJekAALg**&count=2], calling LoadImage
+2020 Feb 04 07:01:50.316726 arrisxg1v3 Receiver[25043]: [78B blob data]
+2020 Feb 04 07:01:50.316826 arrisxg1v3 Receiver[25043]: [92B blob data]
+2020 Feb 04 07:01:50.317260 arrisxg1v3 Receiver[25043]:  Thread-25579 [LocalInput] - XREKeyPressLog IR KEY 85 8000 received
+2020 Feb 04 07:01:50.317896 arrisxg1v3 Receiver[25043]:  Thread-25579 [LocalInput] - XREKeyPressLog XRE Stack Adapter processKey enter with key=0x85 and type=down
+2020 Feb 04 07:01:50.321463 arrisxg1v3 Receiver[25043]:  Thread-29759 [ECM] - XREKeyPressLog Keyevent sent to server: {"timestamp":1580799710321,"phase":"PREVIEW","event":138,"name":"onPreviewKeyDown","source":2129,"params":{"keySource":"physical","meta":false,"control":false,"shift":false,"tid":"aff6250b-b74c-4aa0-a935-976ab21d48df","alt":false,"virtualKeyCode":"ENTER","elapsedMs":115,"rawCode":0},"handler":2}
+2020 Feb 04 07:01:50.324803 arrisxg1v3 Receiver[25043]:  Thread-29759 [ECM] - XREKeyPressLog Keyevent sent to server: {"timestamp":1580799710324,"phase":"PREVIEW","event":139,"name":"onPreviewKeyDown","source":2129,"params":{"keySource":"physical","meta":false,"control":false,"shift":false,"tid":"aff6250b-b74c-4aa0-a935-976ab21d48df","alt":false,"virtualKeyCode":"ENTER","elapsedMs":0,"rawCode":0},"handler":2049}
+2020 Feb 04 07:01:50.325333 arrisxg1v3 Receiver[25043]:  Thread-4458 [ECM] - XREKeyPressLog Keyevent sent to server: {"timestamp":1580799710323,"phase":"PREVIEW","event":86,"name":"onPreviewKeyDown","source":2141,"params":{"keySource":"physical","meta":false,"control":false,"shift":false,"tid":"aff6250b-b74c-4aa0-a935-976ab21d48df","alt":false,"virtualKeyCode":"ENTER","elapsedMs":131077,"rawCode":0},"handler":2}
+2020 Feb 04 07:01:50.327193 arrisxg1v3 Receiver[25043]:  Thread-25043 [CEventDispatcher] - There is no keyevent handler registered for the Preview view. Dropping the key events for the application shell:homeApp
+2020 Feb 04 07:01:50.327360 arrisxg1v3 Receiver[25043]:  Thread-25043 [CEventDispatcher] - There is no keyevent handler registered for the Standard view. Dropping the key events.
+2020 Feb 04 07:01:50.327463 arrisxg1v3 Receiver[25043]:  Thread-25043 [ApplicationResource] - sending echo event with id: 7
+2020 Feb 04 07:01:50.327909 arrisxg1v3 Receiver[25043]:  Thread-25043 [ApplicationResource] - sending echo event with id: 8
+2020 Feb 04 07:01:50.328436 arrisxg1v3 Receiver[25043]:  Thread-25043 [ApplicationResource] - sending echo event with id: 9
+2020 Feb 04 07:01:50.443698 arrisxg1v3 Receiver[25043]: [78B blob data]
+2020 Feb 04 07:01:50.443788 arrisxg1v3 Receiver[25043]: [92B blob data]
+2020 Feb 04 07:01:50.444189 arrisxg1v3 Receiver[25043]:  Thread-25579 [LocalInput] - XREKeyPressLog IR KEY 85 8100 received
+2020 Feb 04 07:01:50.444423 arrisxg1v3 Receiver[25043]:  Thread-25579 [LocalInput] - XREKeyPressLog XRE Stack Adapter processKey enter with key=0x85 and type=up
+2020 Feb 04 07:01:50.450415 arrisxg1v3 Receiver[25043]:  Thread-25043 [CEventDispatcher] - There is no keyevent handler registered for the Preview view. Dropping the key events for the application shell:homeApp
+2020 Feb 04 07:01:50.450524 arrisxg1v3 Receiver[25043]:  Thread-25043 [CEventDispatcher] - There is no keyevent handler registered for the Standard view. Dropping the key events.
+2020 Feb 04 07:01:50.671906 arrisxg1v3 Receiver[25043]:  Thread-25043 [RDKBrowserHtmlViewItem] - cleaning up a video plane: [no]
+2020 Feb 04 07:01:50.673201 arrisxg1v3 Receiver[25043]:  Thread-25043 [RDKBrowserHtmlViewItem] - WP[0x165d000] RDKBrowserHtmlViewItem destructor is about to destroy WaylandPlugin
+2020 Feb 04 07:01:50.679346 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:50.675564 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] enableScrollToFocused:wpe_browser.cpp:1116 [true], was: [true]
+2020 Feb 04 07:01:50.681272 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:50.676021 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] enableWebSecurity:wpe_browser.cpp:1132 [true], was: [true]
+2020 Feb 04 07:01:50.682264 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:50.680756 [mod=RDKBROWSER2, lvl=INFO] [tid=4533] didStartProvisionalLoadForFrame:AVESupport.cpp:345
+2020 Feb 04 07:01:50.700381 arrisxg1v3 runAppManager.sh[24623]: [AVE-Lib] unloadAVEJavaScriptBindings context=0x5b3dc030
+2020 Feb 04 07:01:50.701273 arrisxg1v3 runAppManager.sh[24623]: JSGarbageCollect(0x5b3dc030)
+2020 Feb 04 07:01:50.702133 arrisxg1v3 runAppManager.sh[24623]: [AAMP_JSController] aamp_UnloadJSController context=0x5b3dc030
+2020 Feb 04 07:01:50.703022 arrisxg1v3 runAppManager.sh[24623]: [AAMP_JS] aamp_UnloadJS() context=0x5b3dc030
+2020 Feb 04 07:01:50.703711 arrisxg1v3 runAppManager.sh[24623]: [AAMP_JS] AAMPPlayer_UnloadJS() context=0x5b3dc030
+2020 Feb 04 07:01:50.704338 arrisxg1v3 runAppManager.sh[24623]: Number of active jsmediaplayer instances: 0
+2020 Feb 04 07:01:50.699881 arrisxg1v3 WPEWebProcess[4533]: [AAMP-PLAYER][AAMP_JS] RemoveEventListener(25, 0x4a9660)
+2020 Feb 04 07:01:50.699915 arrisxg1v3 WPEWebProcess[4533]: [AAMP-PLAYER][AAMP_JS] RemoveEventListener(25, 0x4a9660) delete 0x4ef9a0
+2020 Feb 04 07:01:50.699978 arrisxg1v3 WPEWebProcess[4533]: [AAMP-PLAYER]aamp_stop ignored since already at eSTATE_IDLE
+2020 Feb 04 07:01:50.700042 arrisxg1v3 WPEWebProcess[4533]: [AAMP-PLAYER]ClearPlaylistCache:6866 : cache size 0
+2020 Feb 04 07:01:50.700078 arrisxg1v3 WPEWebProcess[4533]: [AAMP-PLAYER]clearSessionData:119 AampDRMSessionManager:: Clearing session data
+2020 Feb 04 07:01:50.710417 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:50.707510 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onLoadStarted:rdkbrowser.cpp:943
+2020 Feb 04 07:01:50.711357 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:50.708088 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] didStartProvisionalNavigation:wpe_browser.cpp:614 provisionalURL=about:blank
+2020 Feb 04 07:01:50.700542 arrisxg1v3 WPEWebProcess[4533]: [AAMP-PLAYER]DestroyPipeline(): Destroying gstreamer pipeline
+2020 Feb 04 07:01:50.700572 arrisxg1v3 WPEWebProcess[4533]: [AAMP-PLAYER][AAMP_JS] dlclose(0x47f828)
+2020 Feb 04 07:01:50.711610 arrisxg1v3 Receiver[25043]:  Thread-25043 [RDKBrowserPluginFactory] - Stash plugin for later use, last used by 'html_view' web context, use num=1, memory usage check in 3000 ms
+2020 Feb 04 07:01:50.711712 arrisxg1v3 Receiver[25043]:  Thread-25043 [RDKBrowserPluginFactory] - Skip 'hot' plugin creation, active plugin num=2, min plugin num=2
+2020 Feb 04 07:01:50.712871 arrisxg1v3 Receiver[25043]:  Thread-25043 [XREGraphicsScene] - Clearing texture memory.
+2020 Feb 04 07:01:50.734706 arrisxg1v3 Receiver[25043]:  Thread-25043 [RDKBrowserPluginFactory] - Reusing [use num=2] plugin for 'html_view' web context
+2020 Feb 04 07:01:50.734779 arrisxg1v3 Receiver[25043]:  Thread-25043 [RDKBrowserHtmlViewItem] - WP[0x165d000] RDKBrowserHtmlViewItem constructor has created WaylandPlugin
+2020 Feb 04 07:01:50.735051 arrisxg1v3 Receiver[25043]:  Thread-25043 [RDKBrowserHtmlViewItem] - WaylandPlugin: WP[165cff8] setUrl: Wayland App is already set
+2020 Feb 04 07:01:50.740015 arrisxg1v3 Receiver[25043]:  Thread-25043 [RDKBrowserHtmlViewItem] - using proxy patterns from the XRE App: 'homeApp'
+2020 Feb 04 07:01:50.781998 arrisxg1v3 Receiver[25043]:  Thread-4458 [XREWebSocketConnection] - heartbeat warning - no heartbeat.  expected frame length: 576 bytes available: 325
+2020 Feb 04 07:01:50.786204 arrisxg1v3 Receiver[25043]:  Thread-4458 [XREWebSocketConnection] - heartbeat warning cleared
+2020 Feb 04 07:01:50.807413 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:50.806 [Error] urlChanged:rdkat.cpp:950 Found this URL "about:blank" in filter list, releasing TTS Resource
+2020 Feb 04 07:01:50.808358 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:50.807 [Info] [tid=4533] releaseResource:TTSClientPrivate.cpp:559 releaseResource
+2020 Feb 04 07:01:50.809395 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:50.808 [Error] [tid=4533] releaseResource:TTSClientPrivate.cpp:561 Non-Reservation policy (i.e Open) is in effect, declining request
+2020 Feb 04 07:01:50.834991 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:50.834268 [mod=RDKBROWSER2, lvl=INFO] [tid=4533] didCommitLoad:BundleController.cpp:132 Skip AVE/AAMP bindings injection for about:blank
+2020 Feb 04 07:01:50.836497 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:50.835744 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] setAVELogLevel:rdkbrowser.cpp:739 [4]
+2020 Feb 04 07:01:50.837204 arrisxg1v3 Receiver[25043]:  Thread-25043 [RDKBrowserHtmlViewItem] - SetProperties: params: [cookies,cookieJar,keymaps,url=https://prod-hero-3a-w2a.homeapp.xcal.tv/com/comcast/xre/home/resources/nextgenvideo/nextgenvideo.html?port=443&room=236741325045609206&token=eyJraWQiOiJ4aG9tZS1ldm8tdGVzdCIsImFsZyI6IlJTMjU2In0.eyJjYW1lcmEiOiI3ODk0QjRGM0Y4MTUiLCJ4Ym9faWQiOiIyMzY3NDEzMjUwNDU2MDkyMDYiLCJpYXQiOjE1ODA3OTk2NzYsImV4cCI6MTU4MDgwMDI3Nn0.VgwXSVqbTD2D_rlgUPXdava6TLVWkCZ6LapZiwPWW6yA3zNFvRruNnbG_rtd0yEIN3KDtdTbGYk1KZ8-d6rlqm1qfU0fDBBE7yOr1ajVGBGOHaaDSzNqexvR_Um26PL0dV98EQR8SyC1vQSzCzz58EG7klIxMhardbqs5GyImEtKiOTzRh78a9xbzCa1sfUnausoZCpqKuDsTbiSFdmJQMdshv1gdk-yXG2PXHOvzX9mTd25_h-wcg48o1pth_YeZnSxBvMUSGcDNKNcdQxKzLTJZ8RZRP8I49MEM07bBH8kOhqFx-Q9w_t4y7ZLSuDEKiECP0IBIBhW0oM9-PEw3A&url=236741325045609206.ssrouterprod.comcast.net&clientInfo=X1App%2CRDKV%2CXG%2C6.8.2%2C100419.0s1,enableVoiceGuidance=false,options,localStorageEnabled=false,contentType,speechRate,navigationMode,enableServiceManager=true,servicesACL,position=0,headers2,transparentBackground=true,webfilter,proxies,headers,speed=1,language,renderer]
+2020 Feb 04 07:01:50.849275 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:50.841065 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onUrlChanged:rdkbrowser.cpp:983 URL: about:blank
+2020 Feb 04 07:01:50.850392 arrisxg1v3 runAppManager.sh[24623]: Url changed: about:blank
+2020 Feb 04 07:01:50.852563 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:50.851809 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] setLocalStorageEnabled:rdkbrowser.cpp:621 Successfully disabled local storage
+2020 Feb 04 07:01:50.900690 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:50.899878 [mod=RDKBROWSER2, lvl=INFO] [tid=4533] setRequestHeadersToPage:RequestHeaders.cpp:77 page [0x71fcd000]: 0 headers set
+2020 Feb 04 07:01:50.901591 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:50.900910 [mod=RDKBROWSER2, lvl=INFO] [tid=4533] removeRequestHeadersFromPage:RequestHeaders.cpp:86 page: 0x71fcd000
+2020 Feb 04 07:01:50.902733 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:50.902011 [mod=RDKBROWSER2, lvl=INFO] [tid=4533] setWebFiltersForPage:WebFilter.cpp:146 page: 0x71fcd000
+2020 Feb 04 07:01:50.915232 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:50.914458 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] setURL:rdkbrowser.cpp:427 URL: https://prod-hero-3a-w2a.homeapp.xcal.tv/com/comcast/xre/home/resources/nextgenvideo/nextgenvideo.html?port=443&room=236741325045609206&token=eyJraWQiOiJ4aG9tZS1ldm8tdGVzdCIsImFsZyI6IlJTMjU2In0.eyJjYW1lcmEiOiI3ODk0QjRGM0Y4MTUiLCJ4Ym9faWQiOiIyMzY3NDEzMjUwNDU2MDkyMDYiLCJpYXQiOjE1ODA3OTk2NzYsImV4cCI6MTU4MDgwMDI3Nn0.VgwXSVqbTD2D_rlgUPXdava6TLVWkCZ6LapZiwPWW6yA3zNFvRruNnbG_rtd0yEIN3KDtdTbGYk1KZ8-d6rlqm1qfU0fDBBE7yOr1ajVGBGOHaaDSzNqexvR_Um26PL0dV98EQR8SyC1vQSzCzz58EG7klIxMhardbqs5GyImEtKiOTzRh78a9xbzCa1sfUnausoZCpqKuDsTbiSFdmJQMdshv1gdk-yXG2PXHOvzX9mTd25_h-wcg48o1pth_YeZnSxBvMUSGcDNKNcdQxKzLTJZ8RZRP8I49MEM07bBH8kOhqFx-Q9w_t4y7ZLSuDEKiECP0IBIBhW0oM9-PEw3A&url=236741325045609206.ssrouterprod.comcast.net&clientInfo=X1App%2CRDKV%2CXG%2C6.8.2%2C100419.0s1
+2020 Feb 04 07:01:50.929147 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:50.927790 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] enableScrollToFocused:wpe_browser.cpp:1116 [true], was: [true]
+2020 Feb 04 07:01:50.930555 arrisxg1v3 Receiver[25043]:  Thread-25043 [ReceiverMetrics] - { "metric":"commands_processing_time", "value":262, "description":"went above 100ms", "app":"homeApp" }
+2020 Feb 04 07:01:50.930865 arrisxg1v3 Receiver[25043]:  Thread-25043 [RDKBrowserHtmlViewItem] - SetProperties: params: [onHTMLPostMessage=<..>]
+2020 Feb 04 07:01:50.932187 arrisxg1v3 Receiver[25043]:  Thread-25043 [RDKBrowserHtmlViewItem] - SetProperties: params: [onJavaScriptInterrupt=<..>]
+2020 Feb 04 07:01:50.934382 arrisxg1v3 Receiver[25043]:  Thread-25043 [RDKBrowserHtmlViewItem] - SetProperties: params: [onHTMLDocumentLoaded=<..>]
+2020 Feb 04 07:01:50.940033 arrisxg1v3 Receiver[25043]:  Thread-25043 [ImageResource] - App Name: [homeApp] Image download Request url: [https://prod-hero-3a-w2a.homeapp.xcal.tv/com/comcast/xre/home/resources/images/home/fade-bottom.png], calling LoadImage
+2020 Feb 04 07:01:50.970989 arrisxg1v3 Receiver[25043]:  Thread-25043 [ImageResource] - App Name: [homeApp] Image download Request url: [https://prod-hero-3a-w2a.homeapp.xcal.tv/com/comcast/xre/home/resources/images/home/cvr_live_en_us.png], calling LoadImage
+2020 Feb 04 07:01:50.996471 arrisxg1v3 Receiver[25043]:  Thread-25043 [Commands] - Echo response received for guid 7 - totalTime = 509 sendTime = 932 receiveTime = -423 networkTime = 509 serverTime = 0
+2020 Feb 04 07:01:50.996590 arrisxg1v3 Receiver[25043]:  Thread-25043 [Commands] - Echo response received for guid 8 - totalTime = 522 sendTime = 932 receiveTime = -410 networkTime = 522 serverTime = 0
+2020 Feb 04 07:01:50.996723 arrisxg1v3 Receiver[25043]:  Thread-25043 [Commands] - Echo response received for guid 9 - totalTime = 522 sendTime = 932 receiveTime = -410 networkTime = 522 serverTime = 0
+2020 Feb 04 07:01:50.998516 arrisxg1v3 Receiver[25043]:  Thread-25043 [AAMP-WEB] - callMethodInBrowser -> calling stop
+2020 Feb 04 07:01:51.011375 arrisxg1v3 Receiver[25043]:  Thread-25043 [AAMP-WEB] - CIPTSBControl::SendDelete issued
+2020 Feb 04 07:01:51.011461 arrisxg1v3 Receiver[25043]:  Thread-25043 [AAMP-WEB] - onStopSignal called
+2020 Feb 04 07:01:51.051255 arrisxg1v3 Receiver[25043]:  Thread-25043 [GraphicsTree] - Add to texture cache [64x18] of type 0, exp date: 1895744517: -1,-1,https://prod-hero-3a-w2a.homeapp.xcal.tv/com/comcast/xre/home/resources/images/home/cvr_live_en_us.png
+2020 Feb 04 07:01:51.063394 arrisxg1v3 Receiver[25043]:  Thread-25043 [GraphicsTree] - Add to texture cache [1280x300] of type 0, exp date: 1895744518: -1,-1,https://prod-hero-3a-w2a.homeapp.xcal.tv/com/comcast/xre/home/resources/images/home/fade-bottom.png
+2020 Feb 04 07:01:51.080705 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]aamp_stop PlayerState=8
+2020 Feb 04 07:01:51.082559 arrisxg1v3 runAppManager.sh[24623]: [AAMP_JS] Event() ctx=0x5b9dc720, type=13, jsCallback=0x5ad938a0
+2020 Feb 04 07:01:51.111883 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:51.109985 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:15]: AAMPPlayer: stop : 02:01:51 GMT-0500 (EST)
+2020 Feb 04 07:01:51.112675 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:51.110257 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:15]: AAMPPlayerEvents: [AAMP_JS_EVENT] onStatusChanged status: 0 : 02:01:51 GMT-0500 (EST)
+2020 Feb 04 07:01:51.113454 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:51.110501 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:15]: PlayerPlatformAPIEvent: new PlayStateChangedEvent : 02:01:51 GMT-0500 (EST)
+2020 Feb 04 07:01:51.117312 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:51.115666 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:15]: XREEventManager: onPlayStateChanged: state = idle : 02:01:51 GMT-0500 (EST)
+2020 Feb 04 07:01:51.120365 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:51.118061 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:15]: AnalyticsHandler: onPlayStateChanged: {"type":"PlayStateChanged","playState":"idle"} : 02:01:51 GMT-0500 (EST)
+2020 Feb 04 07:01:51.124514 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]sleep interrupted!
+2020 Feb 04 07:01:51.124589 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]downloads disabled
+2020 Feb 04 07:01:51.124674 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]RunFetchLoop:4192: fragment collector done. track muxed
+2020 Feb 04 07:01:51.124788 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]sleep interrupted!
+2020 Feb 04 07:01:51.126772 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]WaitForCachedFragmentAvailable muxed aborted
+2020 Feb 04 07:01:51.126812 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]fragment injector done. track muxed
+2020 Feb 04 07:01:51.131814 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]Exit AveDrm::CancelKeyWait
+2020 Feb 04 07:01:51.131861 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]StopWaitForPlaylistRefresh:5298 track [muxed]
+2020 Feb 04 07:01:51.131888 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]StopWaitForPlaylistRefresh:5298 track [muxed]
+2020 Feb 04 07:01:51.131915 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]Exit AveDrm::CancelKeyWait
+2020 Feb 04 07:01:51.137253 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:51.135232 [mod=RDKBROWSER2, lvl=WARN] [tid=4104] aveLogCallback:AVESupport.cpp:237 AVE-Lib DRM_Common_FreeKeySlot count=0
+2020 Feb 04 07:01:51.131941 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER][ReleaseAll]Releasing AveDrmManager of size=1
+2020 Feb 04 07:01:51.139759 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]Exit AveDrm::CancelKeyWait
+2020 Feb 04 07:01:51.141294 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]StopWaitForPlaylistRefresh:5298 track [muxed]
+2020 Feb 04 07:01:51.141324 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]StopWaitForPlaylistRefresh:5298 track [muxed]
+2020 Feb 04 07:01:51.142109 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]entering AAMPGstPlayer_Stop keepLastFrame 0
+2020 Feb 04 07:01:51.142143 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]AAMPGstPlayer::Stop 2038 > Remove periodicProgressCallbackIdleTaskId 38
+2020 Feb 04 07:01:51.175446 arrisxg1v3 runAppManager.sh[24623]: [AAMP_JS] AAMP_finalize() Error: JSObjectGetPrivate returned NULL!
+2020 Feb 04 07:01:51.267961 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:51.264874 [mod=RDKBROWSER2, lvl=INFO] [tid=4533] setWebFiltersForPage:WebFilter.cpp:146 page: 0x71fcd000
+2020 Feb 04 07:01:51.269186 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:51.265468 [mod=RDKBROWSER2, lvl=INFO] [tid=4533] setAVELogLevel:AVESupport.cpp:292 setAVELogLevel 4
+2020 Feb 04 07:01:51.271834 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:51.265702 [mod=RDKBROWSER2, lvl=WARN] [tid=4533] aveLogCallback:AVESupport.cpp:237 AVE-Lib AVE log level 4
+2020 Feb 04 07:01:51.273283 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:51.266158 [mod=RDKBROWSER2, lvl=INFO] [tid=4533] setWebFiltersForPage:WebFilter.cpp:146 page: 0x71fcd000
+2020 Feb 04 07:01:51.274367 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:51.266760 [mod=RDKBROWSER2, lvl=INFO] [tid=4533] passAccessibilitySettingsToRDKAT:AccessibilitySupport.cpp:82 accessibility_settings ttsEndPoint=, ttsEndPointSecured=, language=, rate=0, enableVoiceGuidance=0.
+2020 Feb 04 07:01:51.275266 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:51.269 [Info] [tid=4533] enableTTS:TTSClientPrivate.cpp:425 TTS is set to disabled
+2020 Feb 04 07:01:51.279110 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:51.276695 [mod=RDKBROWSER2, lvl=INFO] [tid=4533] didStartProvisionalLoadForFrame:AVESupport.cpp:345
+2020 Feb 04 07:01:51.280175 arrisxg1v3 runAppManager.sh[24623]: JS ERROR TypeError: undefined is not an object
+2020 Feb 04 07:01:51.281043 arrisxg1v3 runAppManager.sh[24623]: [AVE-Lib] unloadAVEJavaScriptBindings context=0x5b3df7b0
+2020 Feb 04 07:01:51.281957 arrisxg1v3 runAppManager.sh[24623]: [AAMP_JSController] aamp_UnloadJSController context=0x5b3df7b0
+2020 Feb 04 07:01:51.282921 arrisxg1v3 runAppManager.sh[24623]: [AAMP_JS] aamp_UnloadJS() context=0x5b3df7b0
+2020 Feb 04 07:01:51.284039 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:51.277491 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onLoadStarted:rdkbrowser.cpp:943
+2020 Feb 04 07:01:51.285125 arrisxg1v3 runAppManager.sh[24623]: JS ERROR TypeError: undefined is not an object
+2020 Feb 04 07:01:51.286002 arrisxg1v3 runAppManager.sh[24623]: [AAMP_JS] AAMPPlayer_UnloadJS() context=0x5b3df7b0
+2020 Feb 04 07:01:51.287005 arrisxg1v3 runAppManager.sh[24623]: Number of active jsmediaplayer instances: 0
+2020 Feb 04 07:01:51.287941 arrisxg1v3 runAppManager.sh[24623]: JS ERROR TypeError: undefined is not an object
+2020 Feb 04 07:01:51.288787 arrisxg1v3 runAppManager.sh[24623]: JS ERROR TypeError: undefined is not an object
+2020 Feb 04 07:01:51.330698 arrisxg1v3 runAppManager.sh[24623]: [~MyFlashAccessAdapter][0x52b420] Destro
+2020 Feb 04 07:01:51.331380 arrisxg1v3 runAppManager.sh[24623]: nexus_free(561): videodecoder released 0x8724d000
+2020 Feb 04 07:01:51.347119 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:51.334252 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] didStartProvisionalNavigation:wpe_browser.cpp:614 provisionalURL=https://prod-hero-3a-w2a.homeapp.xcal.tv/com/comcast/xre/home/resources/nextgenvideo/nextgenvideo.html?port=443&room=236741325045609206&token=eyJraWQiOiJ4aG9tZS1ldm8tdGVzdCIsImFsZyI6IlJTMjU2In0.eyJjYW1lcmEiOiI3ODk0QjRGM0Y4MTUiLCJ4Ym9faWQiOiIyMzY3NDEzMjUwNDU2MDkyMDYiLCJpYXQiOjE1ODA3OTk2NzYsImV4cCI6MTU4MDgwMDI3Nn0.VgwXSVqbTD2D_rlgUPXdava6TLVWkCZ6LapZiwPWW6yA3zNFvRruNnbG_rtd0yEIN3KDtdTbGYk1KZ8-d6rlqm1qfU0fDBBE7yOr1ajVGBGOHaaDSzNqexvR_Um26PL0dV98EQR8SyC1vQSzCzz58EG7klIxMhardbqs5GyImEtKiOTzRh78a9xbzCa1sfUnausoZCpqKuDsTbiSFdmJQMdshv1gdk-yXG2PXHOvzX9mTd25_h-wcg48o1pth_YeZnSxBvMUSGcDNKNcdQxKzLTJZ8RZRP8I49MEM07bBH8kOhqFx-Q9w_t4y7ZLSuDEKiECP0IBIBhW0oM9-PEw3A&url=236741325045609206.ssrouterprod.comcast.net&clientInfo=X1App%2CRDKV%2CXG%2C6.8.2%2C100419.0s1
+2020 Feb 04 07:01:51.346419 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]AAMPGstPlayer::Stop: Pipeline state set to null
+2020 Feb 04 07:01:51.346453 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]AAMPGstPlayer::TearDownStream: mediaType 0
+2020 Feb 04 07:01:51.350194 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]AAMPGstPlayer::TearDownStream:  exit mediaType = 0
+2020 Feb 04 07:01:51.350232 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]AAMPGstPlayer::TearDownStream: mediaType 1
+2020 Feb 04 07:01:51.351586 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]AAMPGstPlayer::TearDownStream:  exit mediaType = 1
+2020 Feb 04 07:01:51.351660 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]AAMPGstPlayer::TearDownStream:  exit mediaType = 2
+2020 Feb 04 07:01:51.351833 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]DestroyPipeline(): Destroying gstreamer pipeline
+2020 Feb 04 07:01:51.351859 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]exiting AAMPGstPlayer_Stop
+2020 Feb 04 07:01:51.351912 arrisxg1v3 WPEWebProcess[25652]: [AAMP-PLAYER]ClearPlaylistCache:6866 : cache size 1
+2020 Feb 04 07:01:51.418522 arrisxg1v3 Receiver[25043]:  Thread-25043 [GraphicsTree] - Add to texture cache [640x360] of type 0, exp date: 1580799741: -1,-1,https://livecache-read-cvr-aws-eu1.sys.comcast.net/user/7894B4F3F815/thumbnail?token=eyJraWQiOiJocy1jdnIiLCJhbGciOiJSUzI1NiJ9.eyJjYW1lcmEiOiI3ODk0QjRGM0Y4MTUiLCJtYWNzIjpbeyJjYW1lcmEiOiI3ODk0QjRGM0Y4MTUiLCJ4Ym9fZGV2aWNlX2lkIjoiMjM2NzQxMzI1MDQ1NjA5MjA2IiwiY3JlYXRlZF90aW1lIjoxNTc3NDUxNzcwOTg1fV0sInhib19hY2NvdW50IjoiODcwNjcxOTI0NzUyNDU0MTY1MyIsInN1YnNjcmliZXIiOltudWxsLCI1NDI5MDY1NzEwMTIwMjIwMTlDb21jYXN0LlJUVkUiLCI4NzA2NzE5MjQ3NTI0NTQxNjUzIl0sInBhcnRuZXIiOiJjb21jYXN0IiwiaWF0IjoxNTgwNzk5Njc2LCJleHAiOjE1ODA4MDAyNzZ9.Jg3Aa7Qu0eCfM0s7mw1NTq19Q-_DewetT2OKkp63n8TY_EDWT1yLPW_-N_499EKlI3H-35qUSrhM5y2XnDePf3_rC7U4hgKA2APGmXoZqgAqZcbOOsiVMZE09JMsIca4awM6HSWW8WAQBaS2QRa-1zxMQuMQMrJdTNPIfa4009NTwRfjcWt3VTzmGWutDtZ_DwQuOEpxp1J2LopP1thlSb9Uf9QtJIRa0VODlxTyGQLwuoBdVZpSwU7LgwlmXrNIu4YEOk4TXwqIMIXLGy_ATWwkE3dRDBaxR5FQckecOAb_6ZrnvacX3LyEeByguZ9SXL736qpE0ZQHEuE-XNCzag&access_token=CgNPQVQQARgCIoABjmxTWy1pgbu9MJA2SbhB_niGzd0czPQPHMeNCbzY_syT_9gYCG2Xh4gjLOV55uI8XcaHwIOHciba7W7y4L96CRRNXRa77sg-Imi0ZcInkbjw_UbEJ9lR5H8-pfrQZ6klBrOK796KUuW9b4fkSs44pxeOHLMJvgAX7pa_6Nkn7roqENEIK3RQkQW7I8tU_L91gWgyUQoodXJuOmNpbWE6b2F1dGg6djI6YWNjZXNzLXRva2VuOmVuY3J5cHQ6MRIldXJuOmNpbWE6b2F1dGg6djI6YWNjZXNzLXRva2VuOnNpZ246MTqgAnMSyFsq26cl9rNEOSAjwB_WZft6o9wnQLuVuJiQ_AD3dG2rAKjdKytxzcl_X1LyB6QBwVbu2ISt1fHIIwo4A_j2CnBr75O2DXBkDcdkuy9z0Gl1eINc45OD34Pk4uJUL30UO_Du3EMHwCMPnz1oNOEzoagvIBDkjHmBfkjaL9xIqTP6zom98n9RtDJ_nhLC57_xdBKvHaLpdKDdyQOdk6eWYtvkSdEt7L3HMNhWvtYWdT70GSViHYdQ4iIXQAshelfXA8o5bcovdu4_OB-7Jzj1FWMupRmflOQrevgj7-RBVuKIMoDyICpZiPGLNFolTSDe89nyNO-4JVhTCsF3kjMHwo5IHTDi0jl3HKYj6a4VtZ4vi4grtQGc1vTJekAALg**&count=2
+2020 Feb 04 07:01:51.596844 arrisxg1v3 runAppManager.sh[24623]: (process:4538): GLib-GIO-WARNING **: Could not connect to 96.113.96.16:443: Network is unreachable.
+2020 Feb 04 07:01:52.775438 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:52.774377 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [Security:0]: Unrecognized Content-Security-Policy directive 'Content-Security-Policy:'.
+2020 Feb 04 07:01:52.793825 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:52.792 [Info] [tid=4533] acquireResource:TTSClientPrivate.cpp:521 acquireResource
+2020 Feb 04 07:01:52.794653 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:52.793 [Error] [tid=4533] acquireResource:TTSClientPrivate.cpp:523 Non-Reservation policy (i.e Open) is in effect, declining request
+2020 Feb 04 07:01:52.800669 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:52.796 [Info] [tid=4533] createSession:TTSClientPrivate.cpp:614 Created Session
+2020 Feb 04 07:01:52.801522 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:52.798 [Info] [tid=4533] createSession:TTSClientPrivate.cpp:619 Session ID : 2
+2020 Feb 04 07:01:52.802405 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:52.799 [Info] onTTSStateChanged:rdkat.cpp:100 TTS is disabled
+2020 Feb 04 07:01:52.803213 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:52.799 [Warning] [tid=4533] createSession:TTSClientPrivate.cpp:626 Going to install handler for event willSpeak
+2020 Feb 04 07:01:52.804952 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:52.800 [Info] [tid=4533] createSession:TTSClientPrivate.cpp:626 Installed handler for event "willSpeak"
+2020 Feb 04 07:01:52.805745 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:52.801 [Warning] [tid=4533] createSession:TTSClientPrivate.cpp:627 Going to install handler for event spoke
+2020 Feb 04 07:01:52.807025 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:52.802 [Info] [tid=4533] createSession:TTSClientPrivate.cpp:627 Installed handler for event "spoke"
+2020 Feb 04 07:01:52.808308 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:52.802 [Info] [tid=4533] createSession:TTSClientPrivate.cpp:633 Installed event handlers
+2020 Feb 04 07:01:52.811453 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:52.802 [Warning] [tid=4533] createSession:TTSClientPrivate.cpp:640 Session Info for SessionId-2 is 0x4b4078
+2020 Feb 04 07:01:52.812253 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:52.802836 [mod=RDKBROWSER2, lvl=INFO] [tid=4533] didCommitLoad:AVESupport.cpp:357
+2020 Feb 04 07:01:52.814126 arrisxg1v3 runAppManager.sh[24623]: [AVE-Lib] Adobe Primetime SDK version: 2,4,1,250
+2020 Feb 04 07:01:52.814941 arrisxg1v3 runAppManager.sh[24623]: [AVE-Lib] loadAVEJavaScriptBindings context=0x5b3df0c0
+2020 Feb 04 07:01:52.815906 arrisxg1v3 runAppManager.sh[24623]: [AAMP_JSController] aamp_LoadJSController context=0x5b3df0c0
+2020 Feb 04 07:01:52.816578 arrisxg1v3 runAppManager.sh[24623]: [AAMP_JS] aamp_LoadJS() context=0x5b3df0c0, aamp=(nil)
+2020 Feb 04 07:01:52.817505 arrisxg1v3 runAppManager.sh[24623]: Enter AAMPPlayer_LoadJS(), context = 0x5b3df0c0
+2020 Feb 04 07:01:52.818223 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:52.810994 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onUrlChanged:rdkbrowser.cpp:983 URL: https://prod-hero-3a-w2a.homeapp.xcal.tv/com/comcast/xre/home/resources/nextgenvideo/nextgenvideo.html?port=443&room=236741325045609206&token=eyJraWQiOiJ4aG9tZS1ldm8tdGVzdCIsImFsZyI6IlJTMjU2In0.eyJjYW1lcmEiOiI3ODk0QjRGM0Y4MTUiLCJ4Ym9faWQiOiIyMzY3NDEzMjUwNDU2MDkyMDYiLCJpYXQiOjE1ODA3OTk2NzYsImV4cCI6MTU4MDgwMDI3Nn0.VgwXSVqbTD2D_rlgUPXdava6TLVWkCZ6LapZiwPWW6yA3zNFvRruNnbG_rtd0yEIN3KDtdTbGYk1KZ8-d6rlqm1qfU0fDBBE7yOr1ajVGBGOHaaDSzNqexvR_Um26PL0dV98EQR8SyC1vQSzCzz58EG7klIxMhardbqs5GyImEtKiOTzRh78a9xbzCa1sfUnausoZCpqKuDsTbiSFdmJQMdshv1gdk-yXG2PXHOvzX9mTd25_h-wcg48o1pth_YeZnSxBvMUSGcDNKNcdQxKzLTJZ8RZRP8I49MEM07bBH8kOhqFx-Q9w_t4y7ZLSuDEKiECP0IBIBhW0oM9-PEw3A&url=236741325045609206.ssrouterprod.comcast.net&clientInfo=X1App%2CRDKV%2CXG%2C6.8.2%2C100419.0s1
+2020 Feb 04 07:01:52.825831 arrisxg1v3 runAppManager.sh[24623]: Url changed: https://prod-hero-3a-w2a.homeapp.xcal.tv/com/comcast/xre/home/resources/nextgenvideo/nextgenvideo.html?port=443&room=236741325045609206&token=eyJraWQiOiJ4aG9tZS1ldm8tdGVzdCIsImFsZyI6IlJTMjU2In0.eyJjYW1lcmEiOiI3ODk0QjRGM0Y4MTUiLCJ4Ym9faWQiOiIyMzY3NDEzMjUwNDU2MDkyMDYiLCJpYXQiOjE1ODA3OTk2NzYsImV4cCI6MTU4MDgwMDI3Nn0.VgwXSVqbTD2D_rlgUPXdava6TLVWkCZ6LapZiwPWW6yA3zNFvRruNnbG_rtd0yEIN3KDtdTbGYk1KZ8-d6rlqm1qfU0fDBBE7yOr1ajVGBGOHaaDSzNqexvR_Um26PL0dV98EQR8SyC1vQSzCzz58EG7klIxMhardbqs5GyImEtKiOTzRh78a9xbzCa1sfUnausoZCpqKuDsTbiSFdmJQMdshv1gdk-yXG2PXHOvzX9mTd25_h-wcg48o1pth_YeZnSxBvMUSGcDNKNcdQxKzLTJZ8RZRP8I49MEM07bBH8kOhqFx-Q9w_t4y7ZLSuDEKiECP0IBIBhW0oM9-PEw3A&url=236741325045609206.ssrouterprod.comcast.net&clientInfo=X1App%2CRDKV%2CXG%2C6.8.2%2C100419.0s1
+2020 Feb 04 07:01:52.808413 arrisxg1v3 WPEWebProcess[4533]: [AAMP-PLAYER][AAMP_JS] dlopen("libaampjsbindings.so")=0x47f828
+2020 Feb 04 07:01:52.808510 arrisxg1v3 WPEWebProcess[4533]: [AAMP-PLAYER]CreatePipeline(): Creating gstreamer pipeline
+2020 Feb 04 07:01:52.808892 arrisxg1v3 WPEWebProcess[4533]: [AAMP-PLAYER]AAMPGstPlayerPipeline buffering_enabled 1
+2020 Feb 04 07:01:53.329556 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:53.328329 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:40]: Launching the Browser for Live video Launch
+2020 Feb 04 07:01:53.351847 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:53.350984 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onLoadFinished:rdkbrowser.cpp:957 [success: true] https://prod-hero-3a-w2a.homeapp.xcal.tv/com/comcast/xre/home/resources/nextgenvideo/nextgenvideo.html?port=443&room=236741325045609206&token=eyJraWQiOiJ4aG9tZS1ldm8tdGVzdCIsImFsZyI6IlJTMjU2In0.eyJjYW1lcmEiOiI3ODk0QjRGM0Y4MTUiLCJ4Ym9faWQiOiIyMzY3NDEzMjUwNDU2MDkyMDYiLCJpYXQiOjE1ODA3OTk2NzYsImV4cCI6MTU4MDgwMDI3Nn0.VgwXSVqbTD2D_rlgUPXdava6TLVWkCZ6LapZiwPWW6yA3zNFvRruNnbG_rtd0yEIN3KDtdTbGYk1KZ8-d6rlqm1qfU0fDBBE7yOr1ajVGBGOHaaDSzNqexvR_Um26PL0dV98EQR8SyC1vQSzCzz58EG7klIxMhardbqs5GyImEtKiOTzRh78a9xbzCa1sfUnausoZCpqKuDsTbiSFdmJQMdshv1gdk-yXG2PXHOvzX9mTd25_h-wcg48o1pth_YeZnSxBvMUSGcDNKNcdQxKzLTJZ8RZRP8I49MEM07bBH8kOhqFx-Q9w_t4y7ZLSuDEKiECP0IBIBhW0oM9-PEw3A&url=236741325045609206.ssrouterprod.comcast.net&clientInfo=X1App%2CRDKV%2CXG%2C6.8.2%2C100419.0s1 statusCode = 200
+2020 Feb 04 07:01:53.381313 arrisxg1v3 runAppManager.sh[24623]: success:1 url:https://prod-hero-3a-w2a.homeapp.xcal.tv/com/comcast/xre/home/resources/nextgenvideo/nextgenvideo.html?port=443&room=236741325045609206&token=eyJraWQiOiJ4aG9tZS1ldm8tdGVzdCIsImFsZyI6IlJTMjU2In0.eyJjYW1lcmEiOiI3ODk0QjRGM0Y4MTUiLCJ4Ym9faWQiOiIyMzY3NDEzMjUwNDU2MDkyMDYiLCJpYXQiOjE1ODA3OTk2NzYsImV4cCI6MTU4MDgwMDI3Nn0.VgwXSVqbTD2D_rlgUPXdava6TLVWkCZ6LapZiwPWW6yA3zNFvRruNnbG_rtd0yEIN3KDtdTbGYk1KZ8-d6rlqm1qfU0fDBBE7yOr1ajVGBGOHaaDSzNqexvR_Um26PL0dV98EQR8SyC1vQSzCzz58EG7klIxMhardbqs5GyImEtKiOTzRh78a9xbzCa1sfUnausoZCpqKuDsTbiSFdmJQMdshv1gdk-yXG2PXHOvzX9mTd25_h-wcg48o1pth_YeZnSxBvMUSGcDNKNcdQxKzLTJZ8RZRP8I49MEM07bBH8kOhqFx-Q9w_t4y7ZLSuDEKiECP0IBIBhW0oM9-PEw3A&url=236741325045609206.ssrouterprod.comcast.net&clientInfo=X1App%2CRDKV%2CXG%2C6.8.2%2C100419.0s1
+2020 Feb 04 07:01:53.387507 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:53.358541 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onLoadFinished:rdkbrowser.cpp:975 TELEMETRY_TIME2LOAD_URL_https://prod-hero-3a-w2a.homeapp.xcal.tv/com/comcast/xre/home/resources/nextgenvideo/nextgenvideo.html?port=443&room=236741325045609206&token=eyJraWQiOiJ4aG9tZS1ldm8tdGVzdCIsImFsZyI6IlJTMjU2In0.eyJjYW1lcmEiOiI3ODk0QjRGM0Y4MTUiLCJ4Ym9faWQiOiIyMzY3NDEzMjUwNDU2MDkyMDYiLCJpYXQiOjE1ODA3OTk2NzYsImV4cCI6MTU4MDgwMDI3Nn0.VgwXSVqbTD2D_rlgUPXdava6TLVWkCZ6LapZiwPWW6yA3zNFvRruNnbG_rtd0yEIN3KDtdTbGYk1KZ8-d6rlqm1qfU0fDBBE7yOr1ajVGBGOHaaDSzNqexvR_Um26PL0dV98EQR8SyC1vQSzCzz58EG7klIxMhardbqs5GyImEtKiOTzRh78a9xbzCa1sfUnausoZCpqKuDsTbiSFdmJQMdshv1gdk-yXG2PXHOvzX9mTd25_h-wcg48o1pth_YeZnSxBvMUSGcDNKNcdQxKzLTJZ8RZRP8I49MEM07bBH8kOhqFx-Q9w_t4y7ZLSuDEKiECP0IBIBhW0oM9-PEw3A&url=236741325045609206.ssrouterprod.comcast.net&clientInfo=X1App%2CRDKV%2CXG%2C6.8.2%2C100419.0s1:2430
+2020 Feb 04 07:01:53.394127 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:53.381660 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:882]: Bridge Object is inactive
+2020 Feb 04 07:01:53.388377 arrisxg1v3 Receiver[25043]:  Thread-25043 [RDKBrowserHtmlViewItem] - TIME from creating Chariot app to loading the webpage: 45555 ms
+2020 Feb 04 07:01:56.014553 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:56.010737 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:82]:  handlePlayerCallbackEvents :  event : connectionready - description : undefined
+2020 Feb 04 07:01:56.026938 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:56.017592 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:20749]: stunservers:
+2020 Feb 04 07:01:56.027874 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:56.017938 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:20750]: [object Object]
+2020 Feb 04 07:01:56.028814 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:56.020360 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:20756]: turnservers:
+2020 Feb 04 07:01:56.030834 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:56.020979 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:20757]: [object Object]
+2020 Feb 04 07:01:56.032367 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:56.023240 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:82]:  handlePlayerCallbackEvents :  event : turnservers - description : [object Object]
+2020 Feb 04 07:01:56.281333 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:56.280170 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:82]:  handlePlayerCallbackEvents :  event : joinedroom - description : [object Object]
+2020 Feb 04 07:01:56.536679 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:56.535888 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:82]:  handlePlayerCallbackEvents :  event : receivedOffer - description : v=0
+2020 Feb 04 07:01:56.537277 arrisxg1v3 runAppManager.sh[24623]: o=- 11280236877 33773172 IN IP4 127.0.0.1
+2020 Feb 04 07:01:56.537895 arrisxg1v3 runAppManager.sh[24623]: s=EvoStream_WebRTC
+2020 Feb 04 07:01:56.538701 arrisxg1v3 runAppManager.sh[24623]: t=0 0
+2020 Feb 04 07:01:56.539482 arrisxg1v3 runAppManager.sh[24623]: a=msid-semantic: WMS
+2020 Feb 04 07:01:56.540275 arrisxg1v3 runAppManager.sh[24623]: a=ice-options:trickle
+2020 Feb 04 07:01:56.541071 arrisxg1v3 runAppManager.sh[24623]: a=group:BUNDLE video data
+2020 Feb 04 07:01:56.542696 arrisxg1v3 runAppManager.sh[24623]: m=video 9 UDP/TLS/RTP/SAVPF 107
+2020 Feb 04 07:01:56.543461 arrisxg1v3 runAppManager.sh[24623]: c=IN IP4 0.0.0.0
+2020 Feb 04 07:01:56.544303 arrisxg1v3 runAppManager.sh[24623]: a=rtcp:9 IN IP4 0.0.0.0
+2020 Feb 04 07:01:56.545100 arrisxg1v3 runAppManager.sh[24623]: a=ice-ufrag:WK8D5Mt0mnlUhVM/
+2020 Feb 04 07:01:56.545914 arrisxg1v3 runAppManager.sh[24623]: a=ice-pwd:fBdKUzbUvxQD8zVfTUyHeyL4
+2020 Feb 04 07:01:56.546807 arrisxg1v3 runAppManager.sh[24623]: a=fingerprint:sha-256 E1:E3:7A:67:52:09:61:BE:E9:1F:FD:CD:62:97:64:D1:72:E8:82:0F:22:03:5E:55:5E:05:3F:C6:37:A4:9C:0F
+2020 Feb 04 07:01:56.547732 arrisxg1v3 runAppManager.sh[24623]: a=setup:actpass
+2020 Feb 04 07:01:56.548513 arrisxg1v3 runAppManager.sh[24623]: a=mid:video
+2020 Feb 04 07:01:56.549335 arrisxg1v3 runAppManager.sh[24623]: a=sendonly
+2020 Feb 04 07:01:56.550167 arrisxg1v3 runAppManager.sh[24623]: a=rtcp-mux
+2020 Feb 04 07:01:56.550978 arrisxg1v3 runAppManager.sh[24623]: a=fmtp:107 profile-level-id=42c01e; packetization-mode=1; sprop-parameter-sets=Z00AH5pkAoAt/4C1AQEBQAAA+gAAHUw6GADqsAA6rC7y40MAHVYAB1WF3lwo,aO48gA==
+2020 Feb 04 07:01:56.551792 arrisxg1v3 runAppManager.sh[24623]: a=rtcp-fb:107 nack
+2020 Feb 04 07:01:56.552506 arrisxg1v3 runAppManager.sh[24623]: a=rtpmap:107 H264/90000
+2020 Feb 04 07:01:56.553330 arrisxg1v3 runAppManager.sh[24623]: a=ssrc:2163917790 cname:sSOBdBnFEEGXD121
+2020 Feb 04 07:01:56.554118 arrisxg1v3 runAppManager.sh[24623]: a=ssrc:2163917790 msid:ECFIs7KiWTbrCE99uqsqDeR3lwMZWJaokoCP ea2bbfae-6d4f-44ee-b0e2-da56677b6f27
+2020 Feb 04 07:01:56.560434 arrisxg1v3 runAppManager.sh[24623]: a=ssrc:2163917790 mslabel:ECFIs7KiWTbrCE99uqs200204-07:01:56.559672 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:19979]: RTCIceServer.url is deprecated, please use RTCIceServer.urls instead.
+2020 Feb 04 07:01:56.562072 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:56.561273 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:19979]: RTCIceServer.url is deprecated, please use RTCIceServer.urls instead.
+2020 Feb 04 07:01:56.658331 arrisxg1v3 runAppManager.sh[24623]: 83 WebCore::PeerConnectionBackend::PeerConnectionBackend(WebCore::RTCPeerConnection&) balaji
+2020 Feb 04 07:01:56.912551 arrisxg1v3 runAppManager.sh[24623]:  balaji Capture analyzer activated: 0
+2020 Feb 04 07:01:56.913387 arrisxg1v3 runAppManager.sh[24623]: Capture post processor activated: 0
+2020 Feb 04 07:01:56.914354 arrisxg1v3 runAppManager.sh[24623]: Render pre processor activated: 0
+2020 Feb 04 07:01:56.915177 arrisxg1v3 runAppManager.sh[24623]:  balaji WebRtcVoiceEngine::WebRtcVoiceEngine
+2020 Feb 04 07:01:56.915991 arrisxg1v3 runAppManager.sh[24623]:  balaji WebRtcVideoEngine::WebRtcVideoEngine()
+2020 Feb 04 07:01:56.916890 arrisxg1v3 runAppManager.sh[24623]:  balaji WebRtcVoiceEngine::Init
+2020 Feb 04 07:01:56.917902 arrisxg1v3 runAppManager.sh[24623]:  balaji Supported send codecs in order of preference:
+2020 Feb 04 07:01:56.919698 arrisxg1v3 runAppManager.sh[24623]:  balaji opus/48000/2 { minptime=10 useinbandfec=1 } (111)
+2020 Feb 04 07:01:56.920278 arrisxg1v3 runAppManager.sh[24623]:  balaji ISAC/16000/1 (103)
+2020 Feb 04 07:01:56.920854 arrisxg1v3 runAppManager.sh[24623]:  balaji G722/8000/1 (9)
+2020 Feb 04 07:01:56.921406 arrisxg1v3 runAppManager.sh[24623]:  balaji PCMU/8000/1 (0)
+2020 Feb 04 07:01:56.921988 arrisxg1v3 runAppManager.sh[24623]:  balaji PCMA/8000/1 (8)
+2020 Feb 04 07:01:56.922562 arrisxg1v3 runAppManager.sh[24623]:  balaji CN/16000/1 (105)
+2020 Feb 04 07:01:56.924042 arrisxg1v3 runAppManager.sh[24623]:  balaji CN/8000/1 (13)
+2020 Feb 04 07:01:56.924909 arrisxg1v3 runAppManager.sh[24623]:  balaji telephone-event/48000/1 (110)
+2020 Feb 04 07:01:56.925766 arrisxg1v3 runAppManager.sh[24623]:  balaji telephone-event/16000/1 (113)
+2020 Feb 04 07:01:56.927331 arrisxg1v3 runAppManager.sh[24623]:  balaji telephone-event/8000/1 (126)
+2020 Feb 04 07:01:56.928294 arrisxg1v3 runAppManager.sh[24623]:  balaji Supported recv codecs in order of preference:
+2020 Feb 04 07:01:56.928950 arrisxg1v3 runAppManager.sh[24623]:  balaji opus/48000/2 { minptime=10 useinbandfec=1 } (111)
+2020 Feb 04 07:01:56.929573 arrisxg1v3 runAppManager.sh[24623]:  balaji ISAC/16000/1 (103)
+2020 Feb 04 07:01:56.930262 arrisxg1v3 runAppManager.sh[24623]:  balaji G722/8000/1 (9)
+2020 Feb 04 07:01:56.930875 arrisxg1v3 runAppManager.sh[24623]:  balaji PCMU/8000/1 (0)
+2020 Feb 04 07:01:56.931440 arrisxg1v3 runAppManager.sh[24623]:  balaji PCMA/8000/1 (8)
+2020 Feb 04 07:01:56.932051 arrisxg1v3 runAppManager.sh[24623]:  balaji CN/16000/1 (105)
+2020 Feb 04 07:01:56.932725 arrisxg1v3 runAppManager.sh[24623]:  balaji CN/8000/1 (13)
+2020 Feb 04 07:01:56.933426 arrisxg1v3 runAppManager.sh[24623]:  balaji telephone-event/48000/1 (110)
+2020 Feb 04 07:01:56.934021 arrisxg1v3 runAppManager.sh[24623]:  balaji telephone-event/16000/1 (113)
+2020 Feb 04 07:01:56.934581 arrisxg1v3 runAppManager.sh[24623]:  balaji telephone-event/8000/1 (126)
+2020 Feb 04 07:01:56.935170 arrisxg1v3 runAppManager.sh[24623]:  balaji WebRtcVoiceEngine::ApplyOptions: AudioOptions {aec: 1, agc: 1, ns: 1, hf: 1, swap: 0, audio_jitter_buffer_max_packets: 50, audio_jitter_buffer_fast_accelerate: 0, typing: 1, experimental_agc: 0, extended_filter_aec: 0, delay_agnostic_aec: 0, experimental_ns: 0, residual_echo_detector: 1, }
+2020 Feb 04 07:01:56.935761 arrisxg1v3 runAppManager.sh[24623]:  balaji Highpass filter activated: 0
+2020 Feb 04 07:01:56.936337 arrisxg1v3 runAppManager.sh[24623]:  balaji Gain Controller 2 activated: 0
+2020 Feb 04 07:01:56.936916 arrisxg1v3 runAppManager.sh[24623]:  balaji Pre-amplifier activated: 0
+2020 Feb 04 07:01:56.937517 arrisxg1v3 runAppManager.sh[24623]:  balaji Echo control set to 1 with mode 0
+2020 Feb 04 07:01:56.938365 arrisxg1v3 runAppManager.sh[24623]:  balaji AGC set to 1 with mode 0
+2020 Feb 04 07:01:56.939193 arrisxg1v3 runAppManager.sh[24623]:  balaji NS set to 1
+2020 Feb 04 07:01:56.939810 arrisxg1v3 runAppManager.sh[24623]:  balaji Stereo swapping enabled? 0
+2020 Feb 04 07:01:56.940433 arrisxg1v3 runAppManager.sh[24623]:  balaji NetEq capacity is 50
+2020 Feb 04 07:01:56.941018 arrisxg1v3 runAppManager.sh[24623]:  balaji NetEq fast mode? 0
+2020 Feb 04 07:01:56.941598 arrisxg1v3 runAppManager.sh[24623]:  balaji Typing detection is enabled? 1
+2020 Feb 04 07:01:56.942910 arrisxg1v3 runAppManager.sh[24623]:  balaji VAD set to 1 for typing detection.
+2020 Feb 04 07:01:56.943508 arrisxg1v3 runAppManager.sh[24623]:  balaji Delay agnostic aec is enabled? 0
+2020 Feb 04 07:01:56.944379 arrisxg1v3 runAppManager.sh[24623]:  balaji Extended filter aec is enabled? 0
+2020 Feb 04 07:01:56.945568 arrisxg1v3 runAppManager.sh[24623]:  balaji Experimental ns is enabled? 0
+2020 Feb 04 07:01:56.946408 arrisxg1v3 runAppManager.sh[24623]:  balaji Highpass filter activated: 1
+2020 Feb 04 07:01:56.947289 arrisxg1v3 runAppManager.sh[24623]:  balaji Gain Controller 2 activated: 0
+2020 Feb 04 07:01:56.948379 arrisxg1v3 runAppManager.sh[24623]:  balaji Pre-amplifier activated: 0
+2020 Feb 04 07:01:56.949464 arrisxg1v3 runAppManager.sh[24623]:  balaji Message took 62ms to dispatch. Posted from: CreateModularPeerConnectionFactory@/usr/src/debug/wpe-webkit/2.22+gitAUTOINC+99c4ca7417-r0/git/Source/ThirdParty/libwebrtc/Source/webrtc/pc/peerconnectionfactory.cc:104337 WebCore::ExceptionOr<void> WebCore::RTCPeerConnection::initializeConfiguration(WebCore::RTCConfiguration&&) balaji
+2020 Feb 04 07:01:56.950121 arrisxg1v3 runAppManager.sh[24623]: 277 WebCore::ExceptionOr<WTF::Vector<WebCore::MediaEndpointConfiguration::IceServerInfo> > WebCore::iceServersFromConfiguration(WebCore::RTCConfiguration&, const WebCore::RTCConfiguration*, bool) balaji
+2020 Feb 04 07:01:56.958403 arrisxg1v3 runAppManager.sh[24623]: 167 virtual bool WebCore::LibWebRTCPeerConnectionBackend::setConfiguration(WebCore::MediaEndpointConfiguration&&) balaji
+2020 Feb 04 07:01:56.959269 arrisxg1v3 runAppManager.sh[24623]: 136 webrtc::PeerConnectionInterface::RTCConfiguration WebCore::configurationFromMediaEndpointConfiguration(WebCore::MediaEndpointConfiguration&&) balaji
+2020 Feb 04 07:01:56.960169 arrisxg1v3 runAppManager.sh[24623]: 0:00:39.116030273  4533 0x6f963980 ERROR          webrtcencoder GStreamerVideoEncoder.cpp:215:gst_webrtc_video_encoder_set_format: No encoder found for format video/x-vp8
+2020 Feb 04 07:01:57.012085 arrisxg1v3 runAppManager.sh[24623]: (WPEWebProcess:4533): GStreamer-CRITICAL **: gst_object_unref: assertion 'object != NULL' failed
+2020 Feb 04 07:01:57.018118 arrisxg1v3 runAppManager.sh[24623]: (WPEWebProcess:4533): GLib-GObject-WARNING **: g_object_set_valist: object class 'Gstbrcmvideosink' has no property named 'bitrate'
+2020 Feb 04 07:01:57.023904 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:57.022914 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:20339]:  listening to proxy events and emitting it
+2020 Feb 04 07:01:57.026870 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:57.025886 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:82]:  handlePlayerCallbackEvents :  event : createdpeer - description : 86387f11-abf9-4798-bd7b-8d0b52eceebb
+2020 Feb 04 07:01:57.032224 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:57.031203 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:20433]: Creating datachannel emsCommandChannel with options : {}
+2020 Feb 04 07:01:57.033853 arrisxg1v3 runAppManager.sh[24623]:  balaji Using default network controller factory
+2020 Feb 04 07:01:57.034678 arrisxg1v3 runAppManager.sh[24623]:  balaji Using ALR experiment settings: pacing factor: 1, max pacer queue length: 2875, ALR start bandwidth usage percent: 80, ALR end budget level percent: 40, ALR end budget level percent: -60, ALR experiment group ID: 3
+2020 Feb 04 07:01:57.035472 arrisxg1v3 runAppManager.sh[24623]:  balaji Bandwidth probing enabled, set to inactive
+2020 Feb 04 07:01:57.036320 arrisxg1v3 runAppManager.sh[24623]:  balaji Using Legacy SSCC
+2020 Feb 04 07:01:57.037139 arrisxg1v3 runAppManager.sh[24623]:  balaji Using aimd rate control with back off factor 0.85
+2020 Feb 04 07:01:57.037944 arrisxg1v3 runAppManager.sh[24623]:  balaji Using Trendline filter for delay change estimation with window size 20
+2020 Feb 04 07:01:57.038770 arrisxg1v3 runAppManager.sh[24623]:  balaji SignalNetworkState Down
+2020 Feb 04 07:01:57.042408 arrisxg1v3 runAppManager.sh[24623]:  balaji BWE Setting start bitrate to: 300000
+2020 Feb 04 07:01:57.043337 arrisxg1v3 runAppManager.sh[24623]:  balaji ProcessThreadAttached 0x0x6f927c88
+2020 Feb 04 07:01:57.044052 arrisxg1v3 runAppManager.sh[24623]:  balaji Available number of cores: 2
+2020 Feb 04 07:01:57.044753 arrisxg1v3 runAppManager.sh[24623]:  balaji Using aimd rate control with back off factor 0.85
+2020 Feb 04 07:01:57.045768 arrisxg1v3 runAppManager.sh[24623]:  balaji RemoteBitrateEstimatorSingleStream: Instantiating.
+2020 Feb 04 07:01:57.046469 arrisxg1v3 runAppManager.sh[24623]:  balaji PacedSender paused.
+2020 Feb 04 07:01:57.047529 arrisxg1v3 runAppManager.sh[24623]:  balaji DTLS-SRTP enabled; sending DTLS identity request (key type: 1).
+2020 Feb 04 07:01:57.048298 arrisxg1v3 runAppManager.sh[24623]:  balaji Message took 94ms to dispatch. Posted from: CreatePeerConnection@/usr/src/debug/wpe-webkit/2.22+gitAUTOINC+99c4ca7417-r0/git/Source/ThirdParty/libwebrtc/Source/webrtc/api/peerconnectionfactoryproxy.h:43
+2020 Feb 04 07:01:57.049022 arrisxg1v3 runAppManager.sh[24623]:  balaji Making key pair
+2020 Feb 04 07:01:57.049756 arrisxg1v3 runAppManager.sh[24623]:  balaji Returning key pair
+2020 Feb 04 07:01:57.050507 arrisxg1v3 runAppManager.sh[24623]:  balaji Making certificate for WebRTC408 WebCore::ExceptionOr<WTF::Ref<WebCore::RTCDataChannel> > WebCore::RTCPeerConnection::createDataChannel(WebCore::ScriptExecutionContext&, WTF::String&&, WebCore::RTCDataChannelInit&&) balaji
+2020 Feb 04 07:01:57.093410 arrisxg1v3 runAppManager.sh[24623]:  balaji Returning certificate
+2020 Feb 04 07:01:57.094060 arrisxg1v3 runAppManager.sh[24623]:  balaji Local and Remote descriptions must be applied to get the SSL Role of the SCTP transport.
+2020 Feb 04 07:01:57.094670 arrisxg1v3 runAppManager.sh[24623]:  balaji Setting new certificate.232 void WebCore::RTCPeerConnection::queuedSetRemoteDescription(WebCore::RTCSessionDescription&, WebCore::DOMPromiseDeferred<void>&&) balaji
+2020 Feb 04 07:01:57.095449 arrisxg1v3 runAppManager.sh[24623]: 259 void WebCore::PeerConnectionBackend::setRemoteDescription(WebCore::RTCSessionDescription&, WebCore::DOMPromiseDeferred<void>&&) balaji
+2020 Feb 04 07:01:57.096058 arrisxg1v3 runAppManager.sh[24623]: 237 bool WebCore::isRemoteDescriptionTypeValidForState(WebCore::RTCSdpType, WebCore::RTCSignalingState) balaji
+2020 Feb 04 07:01:57.105955 arrisxg1v3 runAppManager.sh[24623]: 0:00:39.264988865  4533 0x6f963980 ERROR          webrtcencoder GStreamerVideoEncoder.cpp:215:gst_webrtc_video_encoder_set_format: No encoder found for format video/x-vp8
+2020 Feb 04 07:01:57.106793 arrisxg1v3 runAppManager.sh[24623]: (WPEWebProcess:4533): GStreamer-CRITICAL **: gst_object_unref: assertion 'object != NULL' failed
+2020 Feb 04 07:01:57.107552 arrisxg1v3 runAppManager.sh[24623]: (WPEWebProcess:4533): GLib-GObject-WARNING **: g_object_set_valist: object class 'Gstbrcmvideosink' has no property named 'bitrate'
+2020 Feb 04 07:01:57.110805 arrisxg1v3 runAppManager.sh[24623]: 0:00:39.272584198  4533 0x6f963980 ERROR          webrtcencoder GStreamerVideoEncoder.cpp:215:gst_webrtc_video_encoder_set_format: No encoder found for format video/x-vp8
+2020 Feb 04 07:01:57.112519 arrisxg1v3 runAppManager.sh[24623]: (WPEWebProcess:4533): GStreamer-CRITICAL **: gst_object_unref: assertion 'object != NULL' failed
+2020 Feb 04 07:01:57.113644 arrisxg1v3 runAppManager.sh[24623]: (WPEWebProcess:4533): GLib-GObject-WARNING **: g_object_set_valist: object class 'Gstbrcmvideosink' has no property named 'bitrate'
+2020 Feb 04 07:01:57.149663 arrisxg1v3 runAppManager.sh[24623]:  balaji Ignored line: a=sctpmap:5000 webrtc-datachannel 4
+2020 Feb 04 07:01:57.150541 arrisxg1v3 runAppManager.sh[24623]:  balaji AddSctpDataCodec: Got SCTP Port Number 5000
+2020 Feb 04 07:01:57.151452 arrisxg1v3 runAppManager.sh[24623]:  balaji Set backup connection ping interval to 25000 milliseconds.
+2020 Feb 04 07:01:57.153092 arrisxg1v3 runAppManager.sh[24623]:  balaji Set ICE receiving timeout to 2500 milliseconds
+2020 Feb 04 07:01:57.154011 arrisxg1v3 runAppManager.sh[24623]:  balaji Set ping most likely connection to 0
+2020 Feb 04 07:01:57.155549 arrisxg1v3 runAppManager.sh[24623]:  balaji Set stable_writable_connection_ping_interval to 2500
+2020 Feb 04 07:01:57.156767 arrisxg1v3 runAppManager.sh[24623]:  balaji Set presume writable when fully relayed to 0
+2020 Feb 04 07:01:57.158098 arrisxg1v3 runAppManager.sh[24623]:  balaji Set regather_on_failed_networks_interval to 300000
+2020 Feb 04 07:01:57.159736 arrisxg1v3 runAppManager.sh[24623]:  balaji Set receiving_switching_delay to 1000
+2020 Feb 04 07:01:57.160533 arrisxg1v3 runAppManager.sh[24623]:  balaji Setting RTCP Transport on video transport 0
+2020 Feb 04 07:01:57.162467 arrisxg1v3 runAppManager.sh[24623]:  balaji Setting RTP Transport on video transport 0x6f983168
+2020 Feb 04 07:01:57.163858 arrisxg1v3 runAppManager.sh[24623]:  balaji Set backup connection ping interval to 25000 milliseconds.
+2020 Feb 04 07:01:57.164828 arrisxg1v3 runAppManager.sh[24623]:  balaji Set ICE receiving timeout to 2500 milliseconds
+2020 Feb 04 07:01:57.165768 arrisxg1v3 runAppManager.sh[24623]:  balaji Set ping most likely connection to 0
+2020 Feb 04 07:01:57.166808 arrisxg1v3 runAppManager.sh[24623]:  balaji Set stable_writable_connection_ping_interval to 2500
+2020 Feb 04 07:01:57.167892 arrisxg1v3 runAppManager.sh[24623]:  balaji Set presume writable when fully relayed to 0
+2020 Feb 04 07:01:57.171331 arrisxg1v3 runAppManager.sh[24623]:  balaji Set regather_on_failed_networks_interval to 300000
+2020 Feb 04 07:01:57.172253 arrisxg1v3 runAppManager.sh[24623]:  balaji Set receiving_switching_delay to 1000
+2020 Feb 04 07:01:57.173176 arrisxg1v3 runAppManager.sh[24623]:  balaji Setting RTCP Transport on data transport 0
+2020 Feb 04 07:01:57.174045 arrisxg1v3 runAppManager.sh[24623]:  balaji Setting RTP Transport on data transport 0x6f984260
+2020 Feb 04 07:01:57.174689 arrisxg1v3 runAppManager.sh[24623]:  balaji Received remote ICE parameters: ufrag=WK8D5Mt0mnlUhVM/, renomination disabled
+2020 Feb 04 07:01:57.175263 arrisxg1v3 runAppManager.sh[24623]:  balaji Received remote ICE parameters: ufrag=WK8D5Mt0mnlUhVM/, renomination disabled
+2020 Feb 04 07:01:57.175893 arrisxg1v3 runAppManager.sh[24623]:  balaji Adding video transceiver for MID=video at i=0 in response to the remote description.
+2020 Feb 04 07:01:57.176465 arrisxg1v3 runAppManager.sh[24623]:  balaji CreateChannel. Options: VideoOptions {}
+2020 Feb 04 07:01:57.177061 arrisxg1v3 runAppManager.sh[24623]:  balaji Created channel for video
+2020 Feb 04 07:01:57.177696 arrisxg1v3 runAppManager.sh[24623]:  balaji Session: 2823150320990742136 Old state: kStable New state: kHaveRemoteOffer
+2020 Feb 04 07:01:57.178483 arrisxg1v3 runAppManager.sh[24623]:  balaji Setting remote video description
+2020 Feb 04 07:01:57.179189 arrisxg1v3 runAppManager.sh[24623]:  balaji SetSendParameters: {codecs: [VideoCodec[107:H264]], conference_mode: no, extensions: [], max_bandwidth_bps: -1, mid: video}
+2020 Feb 04 07:01:57.179802 arrisxg1v3 runAppManager.sh[24623]:  balaji Using codec: VideoCodec[107:H264]
+2020 Feb 04 07:01:57.180447 arrisxg1v3 runAppManager.sh[24623]:  balaji SetFeedbackOptions on all the receive streams because the send codec or RTCP mode has changed.
+2020 Feb 04 07:01:57.181057 arrisxg1v3 runAppManager.sh[24623]:  balaji AddRecvStream: {id:ea2bbfae-6d4f-44ee-b0e2-da56677b6f27;ssrcs:[2163917790];ssrc_groups:;cname:sSOBdBnFEEGXD121;stream_ids:ECFIs7KiWTbrCE99uqsqDeR3lwMZWJaokoCP;}
+2020 Feb 04 07:01:57.181758 arrisxg1v3 runAppManager.sh[24623]:  balaji VideoReceiveStream: {decoders: [{payload_type: 96, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 1profile-level-id: 42e01f}}], rtp: {remote_ssrc: 2163917790, local_ssrc: 1, rtcp_mode: RtcpMode::kCompound, rtcp_xr: {receiver_reference_time_report: off}, remb: off, transport_cc: off, nack: {rtp_history_ms: 1000}, ulpfec_payload_type: 100, red_type: 98, rtx_ssrc: 0, rtx_payload_types: {97 (pt) -> 96 (apt), 99 (pt) -> 98 (apt), }, extensions: []}, renderer: (renderer), render_delay_ms: 10, sync_group: ECFIs7KiWTbrCE99uqsqDeR3lwMZWJaokoCP, target_delay_ms: 0}
+2020 Feb 04 07:01:57.185874 arrisxg1v3 runAppManager.sh[24623]:  balaji UpdateAggregateNetworkState: aggregate_state=down
+2020 Feb 04 07:01:57.186452 arrisxg1v3 runAppManager.sh[24623]:  balaji SignalNetworkState Down
+2020 Feb 04 07:01:57.187119 arrisxg1v3 runAppManager.sh[24623]:  balaji Add remote ssrc: 2163917790
+2020 Feb 04 07:01:57.187754 arrisxg1v3 runAppManager.sh[24623]:  balaji SetSend: false
+2020 Feb 04 07:01:57.188334 arrisxg1v3 runAppManager.sh[24623]:  balaji Changing video state, send=0
+2020 Feb 04 07:01:57.188963 arrisxg1v3 runAppManager.sh[24623]:  balaji Local and Remote descriptions must be applied to get the SSL Role of the SCTP transport.
+2020 Feb 04 07:01:57.189529 arrisxg1v3 runAppManager.sh[24623]:  balaji Processing the addition of a new track for MID=video (added to streams=[ECFIs7KiWTbrCE99uqsqDeR3lwMZWJaokoCP]).
+2020 Feb 04 07:01:57.190258 arrisxg1v3 runAppManager.sh[24623]:  balaji SetSink: ssrc:2163917790 (ptr)638 virtual void WebCore::LibWebRTCMediaEndpoint::OnTrack(rtc::scoped_refptr<webrtc::RtpTransceiverInterface>) KKP
+2020 Feb 04 07:01:57.190911 arrisxg1v3 runAppManager.sh[24623]: 228 virtual void WebCore::LibWebRTCPeerConnectionBackend::doSetRemoteDescription(WebCore::RTCSessionDescription&) balaji m_isLocalDescriptionSet=0, m_isRemoteDescriptionSet=0 description.sdp()=v=0
+2020 Feb 04 07:01:57.191537 arrisxg1v3 runAppManager.sh[24623]: o=- 11280236877 33773172 IN IP4 127.0.0.1
+2020 Feb 04 07:01:57.192194 arrisxg1v3 runAppManager.sh[24623]: s=EvoStream_WebRTC
+2020 Feb 04 07:01:57.192781 arrisxg1v3 runAppManager.sh[24623]: t=0 0
+2020 Feb 04 07:01:57.193335 arrisxg1v3 runAppManager.sh[24623]: a=msid-semantic: WMS
+2020 Feb 04 07:01:57.193956 arrisxg1v3 runAppManager.sh[24623]: a=ice-options:trickle
+2020 Feb 04 07:01:57.194517 arrisxg1v3 runAppManager.sh[24623]: a=group:BUNDLE video data
+2020 Feb 04 07:01:57.195111 arrisxg1v3 runAppManager.sh[24623]: m=video 9 UDP/TLS/RTP/SAVPF 107
+2020 Feb 04 07:01:57.195807 arrisxg1v3 runAppManager.sh[24623]: c=IN IP4 0.0.0.0
+2020 Feb 04 07:01:57.196374 arrisxg1v3 runAppManager.sh[24623]: a=rtcp:9 IN IP4 0.0.0.0
+2020 Feb 04 07:01:57.197022 arrisxg1v3 runAppManager.sh[24623]: a=ice-ufrag:WK8D5Mt0mnlUhVM/
+2020 Feb 04 07:01:57.197592 arrisxg1v3 runAppManager.sh[24623]: a=ice-pwd:fBdKUzbUvxQD8zVfTUyHeyL4
+2020 Feb 04 07:01:57.198283 arrisxg1v3 runAppManager.sh[24623]: a=fingerprint:sha-256 E1:E3:7A:67:52:09:61:BE:E9:1F:FD:CD:62:97:64:D1:72:E8:82:0F:22:03:5E:55:5E:05:3F:C6:37:A4:9C:0F
+2020 Feb 04 07:01:57.198934 arrisxg1v3 runAppManager.sh[24623]: a=setup:actpass
+2020 Feb 04 07:01:57.199507 arrisxg1v3 runAppManager.sh[24623]: a=mid:video
+2020 Feb 04 07:01:57.200106 arrisxg1v3 runAppManager.sh[24623]: a=sendonly
+2020 Feb 04 07:01:57.200726 arrisxg1v3 runAppManager.sh[24623]: a=rtcp-mux
+2020 Feb 04 07:01:57.201531 arrisxg1v3 runAppManager.sh[24623]: a=fmtp:107 profile-level-id=42c01e; packetization-mode=1; sprop-parameter-sets=Z00AH5pkAoAt/4C1AQEBQAAA+gAAHUw6GADqsAA6rC7y40MAHVYAB1WF3lwo,aO48gA==
+2020 Feb 04 07:01:57.202403 arrisxg1v3 runAppManager.sh[24623]: a=rtcp-fb:107 nack
+2020 Feb 04 07:01:57.203419 arrisxg1v3 runAppManager.sh[24623]: a=rtpmap:107 H264/90000
+2020 Feb 04 07:01:57.204394 arrisxg1v3 runAppManager.sh[24623]: a=ssrc:2163917790 cname:sSOBdBnFEEGXD121
+2020 Feb 04 07:01:57.205685 arrisxg1v3 runAppManager.sh[24623]: a=ssrc:2163917790 msid:ECFIs7KiWTbrCE99uqsqDeR3lwMZWJaokoCP ea2bbfae-6d4f-44ee-b0e2-da56677b6f27
+2020 Feb 04 07:01:57.206293 arrisxg1v3 runAppManager.sh[24623]: a=ssrc:2163917790 mslabel:ECFIs7KiWTbrCE99uqsqDeR3lwMZWJaokoCP
+2020 Feb 04 07:01:57.206909 arrisxg1v3 runAppManager.sh[24623]: a=ssrc:2163917790 label:ea2bbfae-6d4f-44ee-b0e2-da56677b6f27
+2020 Feb 04 07:01:57.207482 arrisxg1v3 runAppManager.sh[24623]: m=application 9 DTLS/SCTP 5000
+2020 Feb 04 07:01:57.208137 arrisxg1v3 runAppManager.sh[24623]: c=IN IP4 0.0.0.0
+2020 Feb 04 07:01:57.208737 arrisxg1v3 runAppManager.sh[24623]: b=AS:30
+2020 Feb 04 07:01:57.209318 arrisxg1v3 runAppManager.sh[24623]: a=ice-ufrag:WK8D5Mt0mnlUhVM/
+2020 Feb 04 07:01:57.209942 arrisxg1v3 runAppManager.sh[24623]: a=ice-pwd:fBdKUzbUvxQD8zVfTUyHeyL4
+2020 Feb 04 07:01:57.210507 arrisxg1v3 runAppManager.sh[24623]: a=fingerprint:sha-256 E1:E3:7A:67:52:09:61:BE:E9:1F:FD:CD:62:97:64:D1:72:E8:82:0F:22:03:5E:55:5E:05:3F:C6:37:A4:9C:0F
+2020 Feb 04 07:01:57.211110 arrisxg1v3 runAppManager.sh[24623]: a=setup:actpass
+2020 Feb 04 07:01:57.211679 arrisxg1v3 runAppManager.sh[24623]: a=mid:data
+2020 Feb 04 07:01:57.212364 arrisxg1v3 runAppManager.sh[24623]: a=sctpmap:5000 webrtc-datachannel 4
+2020 Feb 04 07:01:57.213001 arrisxg1v3 runAppManager.sh[24623]: ,description.type()=0
+2020 Feb 04 07:01:57.213612 arrisxg1v3 runAppManager.sh[24623]: 230 virtual void WebCore::LibWebRTCPeerConnectionBackend::doSetRemoteDescription(WebCore::RTCSessionDescription&) balaji
+2020 Feb 04 07:01:57.214407 arrisxg1v3 runAppManager.sh[24623]:  balaji Message took 54ms to dispatch. Posted from: SetRemoteDescription@/usr/src/debug/wpe-webkit/2.22+gitAUTOINC+99c4ca7417-r0/git/Source/ThirdParty/libwebrtc/Source/webrtc/api/peerconnectionproxy.h:103
+2020 Feb 04 07:01:57.215056 arrisxg1v3 runAppManager.sh[24623]:  balaji Sorting 0 available connections
+2020 Feb 04 07:01:57.215711 arrisxg1v3 runAppManager.sh[24623]:  balaji Sorting 0 available connections
+2020 Feb 04 07:01:57.216277 arrisxg1v3 runAppManager.sh[24623]:  balaji OnReadyToSend: Not ready.
+2020 Feb 04 07:01:57.216952 arrisxg1v3 runAppManager.sh[24623]:  balaji UpdateAggregateNetworkState: aggregate_state=down
+2020 Feb 04 07:01:57.217515 arrisxg1v3 runAppManager.sh[24623]:  balaji SignalNetworkState Down820 void WebCore::LibWebRTCMediaEndpoint::setRemoteSessionDescriptionSucceeded() KKP
+2020 Feb 04 07:01:57.231116 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:57.228699 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:20878]: Attaching the stream to the element
+2020 Feb 04 07:01:57.231845 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:57.229821 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:23490]: Video added.
+2020 Feb 04 07:01:57.232429 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:57.230281 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:23495]: After Playing Listener Added
+2020 Feb 04 07:01:57.233282 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:57.230562 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:20894]: assigning stream to element using srcObject
+2020 Feb 04 07:01:57.483610 arrisxg1v3 runAppManager.sh[24623]: westeros_render_nexus: wstRendererNXCreateSurface: NxClient_Alloc rc=0 surfaceClientId=3F
+2020 Feb 04 07:01:57.485828 arrisxg1v3 runAppManager.sh[24623]: westeros_render_nexus: wstRendererNXCreateSurface: gfxSurfaceClient 0x8586c000
+2020 Feb 04 07:01:57.486692 arrisxg1v3 runAppManager.sh[24623]: Westeros Debug: wstGetSurfaceInfo: create surfaceInfo for resource 0x714c8578
+2020 Feb 04 07:01:57.487503 arrisxg1v3 runAppManager.sh[24623]: Westeros Debug: wstUpdateClientInfo: found clientInfo for client 0x71451710
+2020 Feb 04 07:01:57.488676 arrisxg1v3 runAppManager.sh[24623]: Westeros Debug: wstICompositorCreateSurface: client 0x71451710 resource 0x71450500 id 19 : surface resource 0x714c8578
+2020 Feb 04 07:01:57.489754 arrisxg1v3 runAppManager.sh[24623]: westerossink: using secure graphics: 0
+2020 Feb 04 07:01:57.490463 arrisxg1v3 runAppManager.sh[24623]: westeros-sink: registry: id 1 interface (wl_shm) version 1
+2020 Feb 04 07:01:57.491178 arrisxg1v3 runAppManager.sh[24623]: westeros-sink: registry: id 2 interface (wl_compositor) version 3
+2020 Feb 04 07:01:57.491887 arrisxg1v3 runAppManager.sh[24623]: westeros-sink: compositor 0x5a41e8
+2020 Feb 04 07:01:57.492765 arrisxg1v3 runAppManager.sh[24623]: westeros-sink: registry: id 3 interface (wl_shell) version 1
+2020 Feb 04 07:01:57.493530 arrisxg1v3 runAppManager.sh[24623]: westeros-sink: registry: id 4 interface (xdg_shell) version 1
+2020 Feb 04 07:01:57.494334 arrisxg1v3 runAppManager.sh[24623]: westeros-sink: registry: id 5 interface (wl_vpc) version 1
+2020 Feb 04 07:01:57.495041 arrisxg1v3 runAppManager.sh[24623]: westeros-sink: registry: vpc 0x5a4238
+2020 Feb 04 07:01:57.496078 arrisxg1v3 runAppManager.sh[24623]: westeros-sink: registry: id 6 interface (wl_output) version 2
+2020 Feb 04 07:01:57.496933 arrisxg1v3 runAppManager.sh[24623]: westeros-sink: registry: id 7 interface (wl_seat) version 4
+2020 Feb 04 07:01:57.498040 arrisxg1v3 runAppManager.sh[24623]: westeros-sink: registry: id 8 interface (wl_bnxs) version 1
+2020 Feb 04 07:01:57.499001 arrisxg1v3 runAppManager.sh[24623]: westeros-sink: registry: id 9 interface (wl_sb) version 3
+2020 Feb 04 07:01:57.499734 arrisxg1v3 runAppManager.sh[24623]: westeros-sink-soc: registry: sb 0x5a42d0
+2020 Feb 04 07:01:57.500453 arrisxg1v3 runAppManager.sh[24623]: westeros-sink-soc: registry: done add sb listener
+2020 Feb 04 07:01:57.501191 arrisxg1v3 runAppManager.sh[24623]: westeros-sink: registry: id 10 interface (wl_simple_shell) version 1
+2020 Feb 04 07:01:57.501928 arrisxg1v3 runAppManager.sh[24623]: westeros-sink: shell 0x5a42f8
+2020 Feb 04 07:01:57.502809 arrisxg1v3 runAppManager.sh[24623]: gst_westeros_sink_init: surface=0x5a41c0
+2020 Feb 04 07:01:57.503501 arrisxg1v3 runAppManager.sh[24623]: 3018 void WebCore::MediaPlayerPrivateGStreamer::createGSTPlayBin(const gchar*, const WTF::String&) balaji
+2020 Feb 04 07:01:57.504332 arrisxg1v3 runAppManager.sh[24623]: 3020 void WebCore::MediaPlayerPrivateGStreamer::createGSTPlayBin(const gchar*, const WTF::String&) balaji
+2020 Feb 04 07:01:57.649372 arrisxg1v3 runAppManager.sh[24623]: 0:00:39.811733049  4533 0x6f9028a0 WARN       webkitmediaplayer MediaPlayerPrivateGStreamer.cpp:2768:setDownloadBuffering: Disabling on-disk buffering
+2020 Feb 04 07:01:57.650971 arrisxg1v3 runAppManager.sh[24623]: 0:00:39.813149493  4533 0x6f9028a0 WARN       webkitmediaplayer MediaPlayerPrivateGStreamer.cpp:2768:setDownloadBuffering: Disabling on-disk buffering
+2020 Feb 04 07:01:57.656271 arrisxg1v3 runAppManager.sh[24623]: 0:00:39.818668901  4533 0x6f9028a0 WARN       webkitmediaplayer MediaPlayerPrivateGStreamer.cpp:2768:setDownloadBuffering: Disabling on-disk buffering
+2020 Feb 04 07:01:57.658272 arrisxg1v3 runAppManager.sh[24623]: 0:00:39.820623160  4533 0x6f9028a0 WARN       webkitmediaplayer MediaPlayerPrivateGStreamer.cpp:2768:setDownloadBuffering: Disabling on-disk buffering
+2020 Feb 04 07:01:57.660211 arrisxg1v3 runAppManager.sh[24623]: westeros (sink) version 1.01.09
+2020 Feb 04 07:01:57.661176 arrisxg1v3 runAppManager.sh[24623]: westeros-sink: null_to_ready: done add vpcSurface listener
+2020 Feb 04 07:01:57.663985 arrisxg1v3 runAppManager.sh[24623]: 276 void WebCore::PeerConnectionBackend::setRemoteDescriptionSucceeded() balaji
+2020 Feb 04 07:01:57.674891 arrisxg1v3 runAppManager.sh[24623]: 244 WTF::RefPtr<WebCore::RTCSessionDescription> WebCore::RTCPeerConnection::remoteDescription() const balaji
+2020 Feb 04 07:01:57.675577 arrisxg1v3 runAppManager.sh[24623]: 169 WTF::RefPtr<WebCore::RTCSessionDescription> WebCore::LibWebRTCMediaEndpoint::remoteDescription() const balaji m_backend=0x5a96e224
+2020 Feb 04 07:01:57.676479 arrisxg1v3 runAppManager.sh[24623]: 128 WTF::RefPtr<WebCore::RTCSessionDescription> WebCore::fromSessionDescription(const webrtc::SessionDescriptionInterface*) balaji if (!description)
+2020 Feb 04 07:01:57.677831 arrisxg1v3 runAppManager.sh[24623]: 136 WTF::RefPtr<WebCore::RTCSessionDescription> WebCore::fromSessionDescription(const webrtc::SessionDescriptionInterface*) balaji sdp=v=0
+2020 Feb 04 07:01:57.678563 arrisxg1v3 runAppManager.sh[24623]: o=- 11280236877 33773172 IN IP4 127.0.0.1
+2020 Feb 04 07:01:57.679426 arrisxg1v3 runAppManager.sh[24623]: s=-
+2020 Feb 04 07:01:57.680326 arrisxg1v3 runAppManager.sh[24623]: t=0 0
+2020 Feb 04 07:01:57.681315 arrisxg1v3 runAppManager.sh[24623]: a=group:BUNDLE video data
+2020 Feb 04 07:01:57.682407 arrisxg1v3 runAppManager.sh[24623]: a=msid-semantic: WMS ECFIs7KiWTbrCE99uqsqDeR3lwMZWJaokoCP
+2020 Feb 04 07:01:57.683290 arrisxg1v3 runAppManager.sh[24623]: m=video 9 UDP/TLS/RTP/SAVPF 107
+2020 Feb 04 07:01:57.685206 arrisxg1v3 runAppManager.sh[24623]: c=IN IP4 0.0.0.0
+2020 Feb 04 07:01:57.686179 arrisxg1v3 runAppManager.sh[24623]: a=rtcp:9 IN IP4 0.0.0.0
+2020 Feb 04 07:01:57.687238 arrisxg1v3 runAppManager.sh[24623]: a=ice-ufrag:WK8D5Mt0mnlUhVM/
+2020 Feb 04 07:01:57.688220 arrisxg1v3 runAppManager.sh[24623]: a=ice-pwd:fBdKUzbUvxQD8zVfTUyHeyL4
+2020 Feb 04 07:01:57.689041 arrisxg1v3 runAppManager.sh[24623]: a=ice-options:trickle
+2020 Feb 04 07:01:57.689915 arrisxg1v3 runAppManager.sh[24623]: a=fingerprint:sha-256 E1:E3:7A:67:52:09:61:BE:E9:1F:FD:CD:62:97:64:D1:72:E8:82:0F:22:03:5E:55:5E:05:3F:C6:37:A4:9C:0F
+2020 Feb 04 07:01:57.690741 arrisxg1v3 runAppManager.sh[24623]: a=setup:actpass
+2020 Feb 04 07:01:57.691335 arrisxg1v3 runAppManager.sh[24623]: a=mid:video
+2020 Feb 04 07:01:57.692038 arrisxg1v3 runAppManager.sh[24623]: a=sendonly
+2020 Feb 04 07:01:57.692865 arrisxg1v3 runAppManager.sh[24623]: a=rtcp-mux
+2020 Feb 04 07:01:57.693435 arrisxg1v3 runAppManager.sh[24623]: a=rtpmap:107 H264/90000
+2020 Feb 04 07:01:57.694033 arrisxg1v3 runAppManager.sh[24623]: a=rtcp-fb:107 nack
+2020 Feb 04 07:01:57.694771 arrisxg1v3 runAppManager.sh[24623]: a=fmtp:107 packetization-mode=1;profile-level-id=42c01e;sprop-parameter-sets=Z00AH5pkAoAt/4C1AQEBQAAA+gAAHUw6GADqsAA6rC7y40MAHVYAB1WF3lwo,aO48gA==
+2020 Feb 04 07:01:57.695671 arrisxg1v3 runAppManager.sh[24623]: a=ssrc:2163917790 cname:sSOBdBnFEEGXD121
+2020 Feb 04 07:01:57.696355 arrisxg1v3 runAppManager.sh[24623]: a=ssrc:2163917790 msid:ECFIs7KiWTbrCE99uqsqDeR3lwMZWJaokoCP ea2bbfae-6d4f-44ee-b0e2-da56677b6f27
+2020 Feb 04 07:01:57.696950 arrisxg1v3 runAppManager.sh[24623]: a=ssrc:2163917790 mslabel:ECFIs7KiWTbrCE99uqsqDeR3lwMZWJaokoCP
+2020 Feb 04 07:01:57.697654 arrisxg1v3 runAppManager.sh[24623]: a=ssrc:2163917790 label:ea2bbfae-6d4f-44ee-b0e2-da56677b6f27
+2020 Feb 04 07:01:57.698359 arrisxg1v3 runAppManager.sh[24623]: m=application 9 DTLS/SCTP 5000
+2020 Feb 04 07:01:57.698971 arrisxg1v3 runAppManager.sh[24623]: c=IN IP4 0.0.0.0
+2020 Feb 04 07:01:57.699653 arrisxg1v3 runAppManager.sh[24623]: b=AS:30
+2020 Feb 04 07:01:57.700242 arrisxg1v3 runAppManager.sh[24623]: a=ice-ufrag:WK8D5Mt0mnlUhVM/
+2020 Feb 04 07:01:57.700820 arrisxg1v3 runAppManager.sh[24623]: a=ice-pwd:fBdKUzbUvxQD8zVfTUyHeyL4
+2020 Feb 04 07:01:57.701405 arrisxg1v3 runAppManager.sh[24623]: a=ice-options:trickle
+2020 Feb 04 07:01:57.702013 arrisxg1v3 runAppManager.sh[24623]: a=fingerprint:sha-256 E1:E3:7A:67:52:09:61:BE:E9:1F:FD:CD:62:97:64:D1:72:E8:82:0F:22:03:5E:55:5E:05:3F:C6:37:A4:9C:0F
+2020 Feb 04 07:01:57.702570 arrisxg1v3 runAppManager.sh[24623]: a=setup:actpass
+2020 Feb 04 07:01:57.703304 arrisxg1v3 runAppManager.sh[24623]: a=mid:data
+2020 Feb 04 07:01:57.703918 arrisxg1v3 runAppManager.sh[24623]: a=sctpmap:5000 webrtc-datachannel 1024
+2020 Feb 04 07:01:57.704544 arrisxg1v3 runAppManager.sh[24623]: 128 void WebCore::PeerConnectionBackend::createAnswer(WebCore::RTCAnswerOptions&&, WebCore::PeerConnection::SessionDescriptionPromise&&) balaji
+2020 Feb 04 07:01:57.705332 arrisxg1v3 runAppManager.sh[24623]: 249 virtual void WebCore::LibWebRTCPeerConnectionBackend::doCreateAnswer(WebCore::RTCAnswerOptions&&) balaji
+2020 Feb 04 07:01:57.706170 arrisxg1v3 runAppManager.sh[24623]:  balaji Local and Remote descriptions must be applied to get the SSL Role of the session.
+2020 Feb 04 07:01:57.707005 arrisxg1v3 runAppManager.sh[24623]:  balaji Local and Remote descriptions must be applied to get the SSL Role of the session.773 void WebCore::LibWebRTCMediaEndpoint::createSessionDescriptionSucceeded(std::unique_ptr<webrtc::SessionDescriptionInterface>&&) KKP
+2020 Feb 04 07:01:57.708113 arrisxg1v3 runAppManager.sh[24623]: 138 void WebCore::PeerConnectionBackend::createAnswerSucceeded(WTF::String&&) balaji
+2020 Feb 04 07:01:57.821156 arrisxg1v3 runAppManager.sh[24623]: Westeros Debug: wstCompositorBind: client 0x7142ba78 data 0x4ee530 version 1 id 4
+2020 Feb 04 07:01:57.822195 arrisxg1v3 runAppManager.sh[24623]: Westeros Debug: wstUpdateClientInfo: create clientInfo for client 0x7142ba78
+2020 Feb 04 07:01:57.823042 arrisxg1v3 runAppManager.sh[24623]: Westeros Info: display westeros-25040-1 client pid 4533 connected
+2020 Feb 04 07:01:57.823975 arrisxg1v3 runAppManager.sh[24623]: westeros-sb: wstSBBind: enter: client 0x7142ba78 data 0x71449c68 version 1 id 6
+2020 Feb 04 07:01:57.825122 arrisxg1v3 runAppManager.sh[24623]: Westeros Debug: wstUpdateClientInfo: found clientInfo for client 0x7142ba78
+2020 Feb 04 07:01:57.825963 arrisxg1v3 runAppManager.sh[24623]: Westeros Debug: wstUpdateClientInfo: client 0x7142ba78 update resource 0x71471418
+2020 Feb 04 07:01:57.826800 arrisxg1v3 runAppManager.sh[24623]: westeros-sb: wstSBBind: exit: client 0x7142ba78 id 6
+2020 Feb 04 07:01:57.828437 arrisxg1v3 runAppManager.sh[24623]: westeros-simpleshell: wstSimpleShellBind: enter: client 0x7142ba78 data 0x71463aa8 version 1 id 7
+2020 Feb 04 07:01:57.834854 arrisxg1v3 runAppManager.sh[24623]: Westeros Debug: wstGetSurfaceInfo: create surfaceInfo for resource 0x71471898
+2020 Feb 04 07:01:57.836504 arrisxg1v3 runAppManager.sh[24623]: Westeros Debug: wstUpdateClientInfo: found clientInfo for client 0x7142ba78
+2020 Feb 04 07:01:57.837875 arrisxg1v3 runAppManager.sh[24623]: Westeros Debug: wstICompositorCreateSurface: client 0x7142ba78 resource 0x71471058 id 3 : surface resource 0x71471898
+2020 Feb 04 07:01:57.840160 arrisxg1v3 runAppManager.sh[24623]: Westeros Debug: wstUpdateClientInfo: found clientInfo for client 0x7142ba78
+2020 Feb 04 07:01:57.841036 arrisxg1v3 runAppManager.sh[24623]: Westeros Debug: wstKeyboardCheckFocus: no key focus yet
+2020 Feb 04 07:01:57.842555 arrisxg1v3 runAppManager.sh[24623]: Westeros Debug: wstKeyboardCheckFocus: no key focus yet: client 0x7142ba78 has listeners 0
+2020 Feb 04 07:01:57.844511 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:57.819602 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:23492]: Playing Started
+2020 Feb 04 07:01:57.845554 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:57.819960 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:82]:  handlePlayerCallbackEvents :  event : playing - description : 86387f11-abf9-4798-bd7b-8d0b52eceebb
+2020 Feb 04 07:01:57.846559 arrisxg1v3 runAppManager.sh[24623]: gst_westeros_sink_set_property set window rect (8,8,1264,720)
+2020 Feb 04 07:01:57.849920 arrisxg1v3 runAppManager.sh[24623]: 191 void WebCore::PeerConnectionBackend::setLocalDescription(WebCore::RTCSessionDescription&, WebCore::DOMPromiseDeferred<void>&&) balaji
+2020 Feb 04 07:01:57.850775 arrisxg1v3 runAppManager.sh[24623]: 168 bool WebCore::isLocalDescriptionTypeValidForState(WebCore::RTCSdpType, WebCore::RTCSignalingState) balaji
+2020 Feb 04 07:01:57.853216 arrisxg1v3 runAppManager.sh[24623]: 0:00:40.008126680  4533 0x6f963980 ERROR          webrtcencoder GStreamerVideoEncoder.cpp:215:gst_webrtc_video_encoder_set_format: No encoder found for format video/x-vp8
+2020 Feb 04 07:01:57.855253 arrisxg1v3 runAppManager.sh[24623]: (WPEWebProcess:4533): GStreamer-CRITICAL **: gst_object_unref: assertion 'object != NULL' failed
+2020 Feb 04 07:01:57.856172 arrisxg1v3 runAppManager.sh[24623]: (WPEWebProcess:4533): GLib-GObject-WARNING **: g_object_set_valist: object class 'Gstbrcmvideosink' has no property named 'bitrate'
+2020 Feb 04 07:01:57.857076 arrisxg1v3 runAppManager.sh[24623]:  balaji Ignored line: a=sctpmap:5000 webrtc-datachannel 1024
+2020 Feb 04 07:01:57.857914 arrisxg1v3 runAppManager.sh[24623]:  balaji AddSctpDataCodec: Got SCTP Port Number 5000
+2020 Feb 04 07:01:57.864106 arrisxg1v3 runAppManager.sh[24623]:  balaji VideoReceiveStream stats: 64365729, {ssrc: 2163917790, total_bps: 0, width: 0, height: 0, key: 0, delta: 0, network_fps: 0, decode_fps: 0, render_fps: 0, decode_ms: 0, max_decode_ms: 0, cur_delay_ms: 0, targ_delay_ms: 0, jb_delay_ms: 0, min_playout_delay_ms: 0, discarded: 0, sync_offset_ms: 2147483647, cum_loss: 0, max_ext_seq: 0, nack: 0, fir: 0, pli: 0}
+2020 Feb 04 07:01:57.864976 arrisxg1v3 runAppManager.sh[24623]:  balaji Call stats: 64365729, {send_bw_bps: 0, recv_bw_bps: 0, max_pad_bps: 0, pacer_delay_ms: 0, rtt_ms: -1}
+2020 Feb 04 07:01:57.870451 arrisxg1v3 runAppManager.sh[24623]:  balaji Setting RTCP Transport on video transport 0
+2020 Feb 04 07:01:57.871315 arrisxg1v3 runAppManager.sh[24623]:  balaji Setting RTP Transport on video transport 0x6f983168
+2020 Feb 04 07:01:57.873882 arrisxg1v3 runAppManager.sh[24623]:  balaji Set ICE ufrag: NRZ+ pwd: bMo3Vj23bq/29bWrwukPs3ei on transport video
+2020 Feb 04 07:01:57.874724 arrisxg1v3 runAppManager.sh[24623]:  balaji DtlsTransport[video|1|__]: DTLS setup complete.
+2020 Feb 04 07:01:57.875566 arrisxg1v3 runAppManager.sh[24623]:  balaji Changing transceiver (MID=video) current direction from <not set> to kRecvOnly.
+2020 Feb 04 07:01:57.876419 arrisxg1v3 runAppManager.sh[24623]:  balaji Channel enabled
+2020 Feb 04 07:01:57.877226 arrisxg1v3 runAppManager.sh[24623]:  balaji SetSend: false
+2020 Feb 04 07:01:57.884324 arrisxg1v3 runAppManager.sh[24623]:  balaji Changing video state, send=0
+2020 Feb 04 07:01:57.885262 arrisxg1v3 runAppManager.sh[24623]:  balaji Session: 2823150320990742136 Old state: kHaveRemoteOffer New state: kStable
+2020 Feb 04 07:01:57.887013 arrisxg1v3 runAppManager.sh[24623]:  balaji Setting local video description
+2020 Feb 04 07:01:57.887835 arrisxg1v3 runAppManager.sh[24623]:  balaji SetRecvParameters: {codecs: [VideoCodec[107:H264]], extensions: []}
+2020 Feb 04 07:01:57.888602 arrisxg1v3 runAppManager.sh[24623]:  balaji Changing recv codecs from {VideoCodec[96:H264]} to {VideoCodec[107:H264]}
+2020 Feb 04 07:01:57.889446 arrisxg1v3 runAppManager.sh[24623]:  balaji RecreateWebRtcVideoStream (recv) because of SetRecvParameters
+2020 Feb 04 07:01:57.890258 arrisxg1v3 runAppManager.sh[24623]:  balaji UpdateAggregateNetworkState: aggregate_state=down
+2020 Feb 04 07:01:57.891083 arrisxg1v3 runAppManager.sh[24623]:  balaji SignalNetworkState Down
+2020 Feb 04 07:01:57.892007 arrisxg1v3 runAppManager.sh[24623]:  balaji ~VideoReceiveStream: {decoders: [{payload_type: 96, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 1profile-level-id: 42e01f}}], rtp: {remote_ssrc: 2163917790, local_ssrc: 1, rtcp_mode: RtcpMode::kCompound, rtcp_xr: {receiver_reference_time_report: off}, remb: off, transport_cc: off, nack: {rtp_history_ms: 1000}, ulpfec_payload_type: 100, red_type: 98, rtx_ssrc: 0, rtx_payload_types: {97 (pt) -> 96 (apt), 99 (pt) -> 98 (apt), }, extensions: []}, renderer: (renderer), render_delay_ms: 10, sync_group: ECFIs7KiWTbrCE99uqsqDeR3lwMZWJaokoCP, target_delay_ms: 0}
+2020 Feb 04 07:01:57.899975 arrisxg1v3 runAppManager.sh[24623]:  balaji WebRTC.Video.DroppedFrames.RenderQueue 0
+2020 Feb 04 07:01:57.904357 arrisxg1v3 runAppManager.sh[24623]:  balaji Frames decoded 0
+2020 Feb 04 07:01:57.905385 arrisxg1v3 runAppManager.sh[24623]: WebRTC.Video.DroppedFrames.Receiver 0
+2020 Feb 04 07:01:57.906279 arrisxg1v3 runAppManager.sh[24623]:  balaji VideoReceiveStream: {decoders: [{payload_type: 107, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 1profile-level-id: 42e01e}}], rtp: {remote_ssrc: 2163917790, local_ssrc: 1, rtcp_mode: RtcpMode::kCompound, rtcp_xr: {receiver_reference_time_report: off}, remb: off, transport_cc: off, nack: {rtp_history_ms: 1000}, ulpfec_payload_type: -1, red_type: -1, rtx_ssrc: 0, rtx_payload_types: {-1 (pt) -> 107 (apt), }, extensions: []}, renderer: (renderer), render_delay_ms: 10, sync_group: ECFIs7KiWTbrCE99uqsqDeR3lwMZWJaokoCP, target_delay_ms: 0}
+2020 Feb 04 07:01:57.911552 arrisxg1v3 runAppManager.sh[24623]:  balaji UpdateAggregateNetworkState: aggregate_state=down
+2020 Feb 04 07:01:57.912530 arrisxg1v3 runAppManager.sh[24623]:  balaji SignalNetworkState Down
+2020 Feb 04 07:01:57.913429 arrisxg1v3 runAppManager.sh[24623]:  balaji SetSend: false
+2020 Feb 04 07:01:57.914646 arrisxg1v3 runAppManager.sh[24623]:  balaji Changing video state, send=0
+2020 Feb 04 07:01:57.915457 arrisxg1v3 runAppManager.sh[24623]:  balaji Start getting ports with prune_turn_ports disabled211 virtual void WebCore::LibWebRTCPeerConnectionBackend::doSetLocalDescription(WebCore::RTCSessionDescription&) balaji m_isLocalDescriptionSet=0, m_isRemoteDescriptionSet=1 description.sdp()=v=0
+2020 Feb 04 07:01:57.916349 arrisxg1v3 runAppManager.sh[24623]: o=- 2823150320990742136 2 IN IP4 127.0.0.1
+2020 Feb 04 07:01:57.917193 arrisxg1v3 runAppManager.sh[24623]: s=X1App,RDKV,XG,6.8.2,100419.0s1
+2020 Feb 04 07:01:57.918021 arrisxg1v3 runAppManager.sh[24623]: t=0 0
+2020 Feb 04 07:01:57.918965 arrisxg1v3 runAppManager.sh[24623]: a=group:BUNDLE video data
+2020 Feb 04 07:01:57.921250 arrisxg1v3 runAppManager.sh[24623]: a=msid-semantic: WMS
+2020 Feb 04 07:01:57.922124 arrisxg1v3 runAppManager.sh[24623]: m=video 9 UDP/TLS/RTP/SAVPF 107
+2020 Feb 04 07:01:57.924009 arrisxg1v3 runAppManager.sh[24623]: c=IN IP4 0.0.0.0
+2020 Feb 04 07:01:57.924866 arrisxg1v3 runAppManager.sh[24623]: a=rtcp:9 IN IP4 0.0.0.0
+2020 Feb 04 07:01:57.925679 arrisxg1v3 runAppManager.sh[24623]: a=ice-ufrag:NRZ+
+2020 Feb 04 07:01:57.926497 arrisxg1v3 runAppManager.sh[24623]: a=ice-pwd:bMo3Vj23bq/29bWrwukPs3ei
+2020 Feb 04 07:01:57.927377 arrisxg1v3 runAppManager.sh[24623]: a=ice-options:trickle
+2020 Feb 04 07:01:57.930132 arrisxg1v3 runAppManager.sh[24623]: a=fingerprint:sha-256 3A:CD:0C:A4:CC:43:96:3E:52:18:12:3F:12:79:C0:87:07:20:22:DB:52:02:77:F7:5A:F7:3B:06:5B:8A:88:46
+2020 Feb 04 07:01:57.930970 arrisxg1v3 runAppManager.sh[24623]: a=setup:active
+2020 Feb 04 07:01:57.931586 arrisxg1v3 runAppManager.sh[24623]: a=mid:video
+2020 Feb 04 07:01:57.932232 arrisxg1v3 runAppManager.sh[24623]: a=recvonly
+2020 Feb 04 07:01:57.932843 arrisxg1v3 runAppManager.sh[24623]: a=rtcp-mux
+2020 Feb 04 07:01:57.933429 arrisxg1v3 runAppManager.sh[24623]: a=rtpmap:107 H264/90000
+2020 Feb 04 07:01:57.934014 arrisxg1v3 runAppManager.sh[24623]: a=rtcp-fb:107 nack
+2020 Feb 04 07:01:57.934701 arrisxg1v3 runAppManager.sh[24623]: a=fmtp:107 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01e
+2020 Feb 04 07:01:57.935381 arrisxg1v3 runAppManager.sh[24623]: m=application 9 DTLS/SCTP 5000
+2020 Feb 04 07:01:57.936653 arrisxg1v3 runAppManager.sh[24623]: c=IN IP4 0.0.0.0
+2020 Feb 04 07:01:57.937322 arrisxg1v3 runAppManager.sh[24623]: b=AS:30
+2020 Feb 04 07:01:57.937968 arrisxg1v3 runAppManager.sh[24623]: a=ice-ufrag:NRZ+
+2020 Feb 04 07:01:57.939705 arrisxg1v3 runAppManager.sh[24623]: a=ice-pwd:bMo3Vj23bq/29bWrwukPs3ei
+2020 Feb 04 07:01:57.940435 arrisxg1v3 runAppManager.sh[24623]: a=ice-options:trickle
+2020 Feb 04 07:01:57.941061 arrisxg1v3 runAppManager.sh[24623]: a=fingerprint:sha-256 3A:CD:0C:A4:CC:43:96:3E:52:18:12:3F:12:79:C0:87:07:20:22:DB:52:02:77:F7:5A:F7:3B:06:5B:8A:88:46
+2020 Feb 04 07:01:57.942087 arrisxg1v3 runAppManager.sh[24623]: a=setup:active
+2020 Feb 04 07:01:57.943695 arrisxg1v3 runAppManager.sh[24623]: a=mid:data
+2020 Feb 04 07:01:57.944481 arrisxg1v3 runAppManager.sh[24623]: a=sctpmap:5000 webrtc-datachannel 1024
+2020 Feb 04 07:01:57.945573 arrisxg1v3 runAppManager.sh[24623]: ,description.type()=2
+2020 Feb 04 07:01:57.946858 arrisxg1v3 runAppManager.sh[24623]: 213 virtual void WebCore::LibWebRTCPeerConnectionBackend::doSetLocalDescription(WebCore::RTCSessionDescription&) balaji
+2020 Feb 04 07:01:57.947597 arrisxg1v3 runAppManager.sh[24623]: 215 virtual void WebCore::LibWebRTCPeerConnectionBackend::doSetLocalDescription(WebCore::RTCSessionDescription&) balaji
+2020 Feb 04 07:01:57.948345 arrisxg1v3 runAppManager.sh[24623]: 218 virtual void WebCore::LibWebRTCPeerConnectionBackend::doSetLocalDescription(WebCore::RTCSessionDescription&) balaji
+2020 Feb 04 07:01:57.948953 arrisxg1v3 runAppManager.sh[24623]: 801 void WebCore::LibWebRTCMediaEndpoint::setLocalSessionDescriptionSucceeded() KKP
+2020 Feb 04 07:01:57.949588 arrisxg1v3 runAppManager.sh[24623]: 737 virtual void WebCore::LibWebRTCMediaEndpoint::OnIceGatheringChange(webrtc::PeerConnectionInterface::IceGatheringState) KKP
+2020 Feb 04 07:01:57.950212 arrisxg1v3 runAppManager.sh[24623]: 207 void WebCore::PeerConnectionBackend::setLocalDescriptionSucceeded() balaji
+2020 Feb 04 07:01:57.950867 arrisxg1v3 runAppManager.sh[24623]: 527 void WebCore::RTCPeerConnection::updateIceGatheringState(WebCore::RTCIceGatheringState) balaji
+2020 Feb 04 07:01:57.951861 arrisxg1v3 runAppManager.sh[24623]: 557 void WebCore::RTCPeerConnection::updateConnectionState() balaji
+2020 Feb 04 07:01:57.952592 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:01:57.953281 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:01:57.953887 arrisxg1v3 runAppManager.sh[24623]: 200204-07:01:57.903924 [mod=RDKBROWSER2, lvl=INFO] [tid=25040] onConsoleLog:rdkbrowser.cpp:990 [ConsoleAPI:82]:  handlePlayerCallbackEvents :  event : sendanswer - description : undefined
+2020 Feb 04 07:01:57.972449 arrisxg1v3 runAppManager.sh[24623]: 1176 std::vector<cricket::BasicPortAllocatorSession::PortData*> cricket::BasicPortAllocatorSession::GetUnprunedPorts(const std::vector<rtc::Network*>&) KKP
+2020 Feb 04 07:01:57.974656 arrisxg1v3 runAppManager.sh[24623]:  balaji Allocate ports on 2 networks1232 void cricket::AllocationSequence::Init() KKP
+2020 Feb 04 07:01:57.975471 arrisxg1v3 runAppManager.sh[24623]: 1322 void cricket::AllocationSequence::Start() KKP
+2020 Feb 04 07:01:57.976320 arrisxg1v3 runAppManager.sh[24623]: 1267 void cricket::AllocationSequence::DisableEquivalentPhases(rtc::Network*, cricket::PortConfiguration*, uint32_t*) KKP
+2020 Feb 04 07:01:57.977191 arrisxg1v3 runAppManager.sh[24623]: 1232 void cricket::AllocationSequence::Init() KKP
+2020 Feb 04 07:01:57.979526 arrisxg1v3 runAppManager.sh[24623]: 1322 void cricket::AllocationSequence::Start() KKP
+2020 Feb 04 07:01:57.980604 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_An3
+2020 Feb 04 07:01:57.981705 arrisxg1v3 runAppManager.sh[24623]:  balaji Network manager has started
+2020 Feb 04 07:01:57.982573 arrisxg1v3 runAppManager.sh[24623]:  balaji Net[any:0.0.0.x/0:Wildcard:id=0]: Allocation Phase=Udp1382 void cricket::AllocationSequence::CreateUDPPorts() KKP
+2020 Feb 04 07:01:57.983368 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9ce680::1:0:local:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port created with network cost 999
+2020 Feb 04 07:01:57.984651 arrisxg1v3 runAppManager.sh[24623]:  balaji AllocationSequence: UDPPort will be handling the STUN candidate generation.
+2020 Feb 04 07:01:57.985270 arrisxg1v3 runAppManager.sh[24623]:  balaji Adding allocated port for video
+2020 Feb 04 07:01:57.986042 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9ce680:video:1:0:local:Net[any:0.0.0.x/0:Wildcard:id=0]]: Added port to allocator
+2020 Feb 04 07:01:57.986874 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP1450 void cricket::AllocationSequence::CreateStunPorts() KKP
+2020 Feb 04 07:01:57.987521 arrisxg1v3 runAppManager.sh[24623]:  balaji Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]: Allocation Phase=Udp1382 void cricket::AllocationSequence::CreateUDPPorts() KKP
+2020 Feb 04 07:01:57.988131 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9cea08::1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port created with network cost 999
+2020 Feb 04 07:01:57.988746 arrisxg1v3 runAppManager.sh[24623]:  balaji AllocationSequence: UDPPort will be handling the STUN candidate generation.
+2020 Feb 04 07:01:57.989349 arrisxg1v3 runAppManager.sh[24623]:  balaji Adding allocated port for video
+2020 Feb 04 07:01:57.989965 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9cea08:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Added port to allocator
+2020 Feb 04 07:01:57.990539 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP1450 void cricket::AllocationSequence::CreateStunPorts() KKP
+2020 Feb 04 07:01:57.992470 arrisxg1v3 runAppManager.sh[24623]: 1127 void cricket::BasicPortAllocatorSession::MaybeSignalCandidatesAllocationDone() KKP
+2020 Feb 04 07:01:57.993113 arrisxg1v3 runAppManager.sh[24623]: 551 virtual bool cricket::BasicPortAllocatorSession::CandidatesAllocationDone() const KKP
+2020 Feb 04 07:01:57.993838 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA:Maybesignalcandidateallocationdone1161 cricket::BasicPortAllocatorSession::PortData* cricket::BasicPortAllocatorSession::FindPort(cricket::Port*) KKP
+2020 Feb 04 07:01:57.994439 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9ce680:video:1:0:local:Net[any:0.0.0.x/0:Wildcard:id=0]]: Gathered candidate: Cand[:3788543951:1:udp:2113937151:0.0.0.x:42456:local::0:NRZ+:bMo3Vj23bq/29bWrwukPs3ei:0:999:0]
+2020 Feb 04 07:01:57.995273 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9ce680:video:1:0:local:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port ready.
+2020 Feb 04 07:01:57.995894 arrisxg1v3 runAppManager.sh[24623]:  balaji Sorting 0 available connections
+2020 Feb 04 07:01:57.996558 arrisxg1v3 runAppManager.sh[24623]:  balaji Discarding candidate because it doesn't match filter.412 void cricket::UDPPort::ResolveStunAddress(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:01:57.997183 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9ce680:video:1:0:local:Net[any:0.0.0.x/0:Wildcard:id=0]]: Starting STUN host lookup for ipv6.turn.twilio.com:443126 void cricket::UDPPort::AddressResolver::Resolve(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:01:57.997925 arrisxg1v3 runAppManager.sh[24623]: 412 void cricket::UDPPort::ResolveStunAddress(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:01:57.998525 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9ce680:video:1:0:local:Net[any:0.0.0.x/0:Wildcard:id=0]]: Starting STUN host lookup for ipv6.turn.twilio.com:3478126 void cricket::UDPPort::AddressResolver::Resolve(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:01:57.999321 arrisxg1v3 runAppManager.sh[24623]: 1161 cricket::BasicPortAllocatorSession::PortData* cricket::BasicPortAllocatorSession::FindPort(cricket::Port*) KKP
+2020 Feb 04 07:01:57.999965 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9cea08:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Gathered candidate: Cand[:1444738548:1:udp:2113939711:[2001:558:502a:x:x:x:x:x]:48656:local::0:NRZ+:bMo3Vj23bq/29bWrwukPs3ei:0:999:0]
+2020 Feb 04 07:01:58.000541 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9cea08:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port ready.
+2020 Feb 04 07:01:58.005358 arrisxg1v3 runAppManager.sh[24623]:  balaji Sorting 0 available connections412 void cricket::UDPPort::ResolveStunAddress(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:01:58.006130 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9cea08:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Starting STUN host lookup for ipv6.turn.twilio.com:443126 void cricket::UDPPort::AddressResolver::Resolve(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:01:58.006770 arrisxg1v3 runAppManager.sh[24623]: 412 void cricket::UDPPort::ResolveStunAddress(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:01:58.007340 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9cea08:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Starting STUN host lookup for ipv6.turn.twilio.com:3478126 void cricket::UDPPort::AddressResolver::Resolve(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:01:58.007954 arrisxg1v3 runAppManager.sh[24623]: 750 virtual void WebCore::LibWebRTCMediaEndpoint::OnIceCandidate(const webrtc::IceCandidateInterface*) KKP
+2020 Feb 04 07:01:58.008691 arrisxg1v3 runAppManager.sh[24623]: 455 void WebCore::PeerConnectionBackend::newICECandidate(WTF::String&&, WTF::String&&, short unsigned int, WTF::String&&) balaji Gathered ice candidate: candidate:1444738548 1 udp 2113939711 2001:558:502a:8:2000:d2fb:9251:fca0 48656 typ host generation 0 ufrag NRZ+ network-cost 999,m_shouldFilterICECandidates=1
+2020 Feb 04 07:01:58.009296 arrisxg1v3 runAppManager.sh[24623]: 473 void WebCore::PeerConnectionBackend::newICECandidate(WTF::String&&, WTF::String&&, short unsigned int, WTF::String&&) balaji
+2020 Feb 04 07:01:58.021526 arrisxg1v3 runAppManager.sh[24623]:  balaji Net[any:0.0.0.x/0:Wildcard:id=0]: Allocation Phase=Relay1480 void cricket::AllocationSequence::CreateRelayPorts() KKP
+2020 Feb 04 07:01:58.022418 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d04b8::1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port created with network cost 999
+2020 Feb 04 07:01:58.023292 arrisxg1v3 runAppManager.sh[24623]:  balaji Adding allocated port for video
+2020 Feb 04 07:01:58.024650 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d04b8:video:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Added port to allocator757 void cricket::TurnPort::ResolveTurnAddress(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:01:58.025278 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d04b8:video:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Starting TURN host lookup for ipv6.turn.twilio.com:443
+2020 Feb 04 07:01:58.025946 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP
+2020 Feb 04 07:01:58.026518 arrisxg1v3 runAppManager.sh[24623]:  balaji Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]: Allocation Phase=Relay1480 void cricket::AllocationSequence::CreateRelayPorts() KKP
+2020 Feb 04 07:01:58.027152 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d0970::1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port created with network cost 999
+2020 Feb 04 07:01:58.027944 arrisxg1v3 runAppManager.sh[24623]:  balaji Adding allocated port for video
+2020 Feb 04 07:01:58.028519 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d0970:video:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Added port to allocator757 void cricket::TurnPort::ResolveTurnAddress(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:01:58.073495 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d0970:video:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Starting TURN host lookup for ipv6.turn.twilio.com:443
+2020 Feb 04 07:01:58.074382 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP
+2020 Feb 04 07:01:58.074984 arrisxg1v3 runAppManager.sh[24623]:  balaji Net[any:0.0.0.x/0:Wildcard:id=0]: Allocation Phase=Tcp1431 void cricket::AllocationSequence::CreateTCPPorts() KKP
+2020 Feb 04 07:01:58.075856 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d1088::1:0:local:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port created with network cost 999
+2020 Feb 04 07:01:58.077307 arrisxg1v3 runAppManager.sh[24623]:  balaji Adding allocated port for video
+2020 Feb 04 07:01:58.078090 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d1088:video:1:0:local:Net[any:0.0.0.x/0:Wildcard:id=0]]: Added port to allocator
+2020 Feb 04 07:01:58.078699 arrisxg1v3 runAppManager.sh[24623]:  balaji Preparing TCP address, current state: 1
+2020 Feb 04 07:01:58.079531 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP1127 void cricket::BasicPortAllocatorSession::MaybeSignalCandidatesAllocationDone() KKP
+2020 Feb 04 07:01:58.080189 arrisxg1v3 runAppManager.sh[24623]: 551 virtual bool cricket::BasicPortAllocatorSession::CandidatesAllocationDone() const KKP
+2020 Feb 04 07:01:58.080799 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA:Maybesignalcandidateallocationdone
+2020 Feb 04 07:01:58.081595 arrisxg1v3 runAppManager.sh[24623]:  balaji Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]: Allocation Phase=Tcp1431 void cricket::AllocationSequence::CreateTCPPorts() KKP
+2020 Feb 04 07:01:58.082253 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d16c8::1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port created with network cost 999
+2020 Feb 04 07:01:58.082853 arrisxg1v3 runAppManager.sh[24623]:  balaji Adding allocated port for video
+2020 Feb 04 07:01:58.083448 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d16c8:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Added port to allocator
+2020 Feb 04 07:01:58.084109 arrisxg1v3 runAppManager.sh[24623]:  balaji Preparing TCP address, current state: 1
+2020 Feb 04 07:01:58.084722 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP1127 void cricket::BasicPortAllocatorSession::MaybeSignalCandidatesAllocationDone() KKP
+2020 Feb 04 07:01:58.085294 arrisxg1v3 runAppManager.sh[24623]: 551 virtual bool cricket::BasicPortAllocatorSession::CandidatesAllocationDone() const KKP
+2020 Feb 04 07:01:58.085881 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA:Maybesignalcandidateallocationdone1161 cricket::BasicPortAllocatorSession::PortData* cricket::BasicPortAllocatorSession::FindPort(cricket::Port*) KKP
+2020 Feb 04 07:01:58.086797 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d1088:video:1:0:local:Net[any:0.0.0.x/0:Wildcard:id=0]]: Gathered candidate: Cand[:2941479743:1:tcp:1509957375:0.0.0.x:34917:local::0:NRZ+:bMo3Vj23bq/29bWrwukPs3ei:0:999:0]
+2020 Feb 04 07:01:58.087480 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d1088:video:1:0:local:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port ready.
+2020 Feb 04 07:01:58.088147 arrisxg1v3 runAppManager.sh[24623]:  balaji Sorting 0 available connections
+2020 Feb 04 07:01:58.088748 arrisxg1v3 runAppManager.sh[24623]:  balaji Discarding candidate because it doesn't match filter.
+2020 Feb 04 07:01:58.089429 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d1088:video:1:0:local:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port completed gathering candidates.1161 cricket::BasicPortAllocatorSession::PortData* cricket::BasicPortAllocatorSession::FindPort(cricket::Port*) KKP
+2020 Feb 04 07:01:58.090085 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA1
+2020 Feb 04 07:01:58.090680 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA2
+2020 Feb 04 07:01:58.091259 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA3
+2020 Feb 04 07:01:58.092111 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA41127 void cricket::BasicPortAllocatorSession::MaybeSignalCandidatesAllocationDone() KKP
+2020 Feb 04 07:01:58.092727 arrisxg1v3 runAppManager.sh[24623]: 551 virtual bool cricket::BasicPortAllocatorSession::CandidatesAllocationDone() const KKP
+2020 Feb 04 07:01:58.093291 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA:Maybesignalcandidateallocationdone
+2020 Feb 04 07:01:58.093899 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA51161 cricket::BasicPortAllocatorSession::PortData* cricket::BasicPortAllocatorSession::FindPort(cricket::Port*) KKP
+2020 Feb 04 07:01:58.094471 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d16c8:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Gathered candidate: Cand[:2654133475:1:tcp:1509949951:[0:0:0:x:x:x:x:x]:36038:local::0:NRZ+:bMo3Vj23bq/29bWrwukPs3ei:0:999:0]
+2020 Feb 04 07:01:58.095103 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d16c8:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port ready.
+2020 Feb 04 07:01:58.095753 arrisxg1v3 runAppManager.sh[24623]:  balaji Sorting 0 available connections
+2020 Feb 04 07:01:58.096483 arrisxg1v3 runAppManager.sh[24623]:  balaji Discarding candidate because it doesn't match filter.
+2020 Feb 04 07:01:58.097538 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d16c8:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port completed gathering candidates.1161 cricket::BasicPortAllocatorSession::PortData* cricket::BasicPortAllocatorSession::FindPort(cricket::Port*) KKP
+2020 Feb 04 07:01:58.098497 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA1
+2020 Feb 04 07:01:58.099311 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA2
+2020 Feb 04 07:01:58.100706 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA3
+2020 Feb 04 07:01:58.101344 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA41127 void cricket::BasicPortAllocatorSession::MaybeSignalCandidatesAllocationDone() KKP
+2020 Feb 04 07:01:58.101971 arrisxg1v3 runAppManager.sh[24623]: 551 virtual bool cricket::BasicPortAllocatorSession::CandidatesAllocationDone() const KKP
+2020 Feb 04 07:01:58.192370 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA:Maybesignalcandidateallocationdone
+2020 Feb 04 07:01:58.193363 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA5157 void cricket::UDPPort::AddressResolver::OnResolveResult(rtc::AsyncResolverInterface*) KKP
+2020 Feb 04 07:01:58.194230 arrisxg1v3 runAppManager.sh[24623]: 425 void cricket::UDPPort::OnResolveResult(const rtc::SocketAddress&, int) KKP
+2020 Feb 04 07:01:58.195047 arrisxg1v3 runAppManager.sh[24623]: [150B blob data]
+2020 Feb 04 07:01:58.195889 arrisxg1v3 runAppManager.sh[24623]: 60 virtual bool WebKit::LibWebRTCResolver::GetResolvedAddress(int, rtc::SocketAddress*) const KKP family=2
+2020 Feb 04 07:01:58.196985 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9ce680:video:1:0:local:Net[any:0.0.0.x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0157 void cricket::UDPPort::AddressResolver::OnResolveResult(rtc::AsyncResolverInterface*) KKP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2020 Feb 04 07:01:58.197948 arrisxg1v3 runAppManager.sh[24623]: 425 void cricket::UDPPort::OnResolveResult(const rtc::SocketAddress&, int) KKP
+2020 Feb 04 07:01:58.198863 arrisxg1v3 runAppManager.sh[24623]: [151B blob data]
+2020 Feb 04 07:01:58.199659 arrisxg1v3 runAppManager.sh[24623]: 60 virtual bool WebKit::LibWebRTCResolver::GetResolvedAddress(int, rtc::SocketAddress*) const KKP family=10
+2020 Feb 04 07:01:58.240567 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9cea08:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 060 virtual bool WebKit::LibWebRTCResolver::GetResolvedAddress(int, rtc::SocketAddress*) const KKP family=2
+2020 Feb 04 07:01:58.241594 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d04b8:video:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: TURN host lookup received error 0
+2020 Feb 04 07:01:58.243910 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d04b8:video:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port encountered error while gathering candidates.1161 cricket::BasicPortAllocatorSession::PortData* cricket::BasicPortAllocatorSession::FindPort(cricket::Port*) KKP
+2020 Feb 04 07:01:58.244747 arrisxg1v3 runAppManager.sh[24623]: 1127 void cricket::BasicPortAllocatorSession::MaybeSignalCandidatesAllocationDone() KKP
+2020 Feb 04 07:01:58.245526 arrisxg1v3 runAppManager.sh[24623]: 551 virtual bool cricket::BasicPortAllocatorSession::CandidatesAllocationDone() const KKP
+2020 Feb 04 07:01:58.246894 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA:Maybesignalcandidateallocationdone157 void cricket::UDPPort::AddressResolver::OnResolveResult(rtc::AsyncResolverInterface*) KKP
+2020 Feb 04 07:01:58.248217 arrisxg1v3 runAppManager.sh[24623]: 425 void cricket::UDPPort::OnResolveResult(const rtc::SocketAddress&, int) KKP
+2020 Feb 04 07:01:58.249180 arrisxg1v3 runAppManager.sh[24623]: [150B blob data]
+2020 Feb 04 07:01:58.250090 arrisxg1v3 runAppManager.sh[24623]: 60 virtual bool WebKit::LibWebRTCResolver::GetResolvedAddress(int, rtc::SocketAddress*) const KKP family=2
+2020 Feb 04 07:01:58.251307 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9ce680:video:1:0:local:Net[any:0.0.0.x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+2020 Feb 04 07:01:58.252179 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9ce680:video:1:0:local:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port completed gathering candidates.1161 cricket::BasicPortAllocatorSession::PortData* cricket::BasicPortAllocatorSession::FindPort(cricket::Port*) KKP
+2020 Feb 04 07:01:58.252979 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA1
+2020 Feb 04 07:01:58.253946 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA2
+2020 Feb 04 07:01:58.254751 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA3
+2020 Feb 04 07:01:58.255950 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA41127 void cricket::BasicPortAllocatorSession::MaybeSignalCandidatesAllocationDone() KKP
+2020 Feb 04 07:01:58.256731 arrisxg1v3 runAppManager.sh[24623]: 551 virtual bool cricket::BasicPortAllocatorSession::CandidatesAllocationDone() const KKP
+2020 Feb 04 07:01:58.258839 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA:Maybesignalcandidateallocationdone
+2020 Feb 04 07:01:58.259841 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA5157 void cricket::UDPPort::AddressResolver::OnResolveResult(rtc::AsyncResolverInterface*) KKP
+2020 Feb 04 07:01:58.260609 arrisxg1v3 runAppManager.sh[24623]: 425 void cricket::UDPPort::OnResolveResult(const rtc::SocketAddress&, int) KKP
+2020 Feb 04 07:01:58.261440 arrisxg1v3 runAppManager.sh[24623]: [151B blob data]
+2020 Feb 04 07:01:58.262726 arrisxg1v3 runAppManager.sh[24623]: 60 virtual bool WebKit::LibWebRTCResolver::GetResolvedAddress(int, rtc::SocketAddress*) const KKP family=10
+2020 Feb 04 07:01:58.263714 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9cea08:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+2020 Feb 04 07:01:58.264690 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9cea08:video:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port completed gathering candidates.1161 cricket::BasicPortAllocatorSession::PortData* cricket::BasicPortAllocatorSession::FindPort(cricket::Port*) KKP
+2020 Feb 04 07:01:58.265492 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA1
+2020 Feb 04 07:01:58.266345 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA2
+2020 Feb 04 07:01:58.267173 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA3
+2020 Feb 04 07:01:58.269139 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA41127 void cricket::BasicPortAllocatorSession::MaybeSignalCandidatesAllocationDone() KKP
+2020 Feb 04 07:01:58.269953 arrisxg1v3 runAppManager.sh[24623]: 551 virtual bool cricket::BasicPortAllocatorSession::CandidatesAllocationDone() const KKP
+2020 Feb 04 07:01:58.287906 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA:Maybesignalcandidateallocationdone
+2020 Feb 04 07:01:58.288748 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA560 virtual bool WebKit::LibWebRTCResolver::GetResolvedAddress(int, rtc::SocketAddress*) const KKP family=10
+2020 Feb 04 07:01:58.290029 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d0970:video:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: TURN host lookup received error 0
+2020 Feb 04 07:01:58.290980 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d0970:video:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port encountered error while gathering candidates.1161 cricket::BasicPortAllocatorSession::PortData* cricket::BasicPortAllocatorSession::FindPort(cricket::Port*) KKP
+2020 Feb 04 07:01:58.292380 arrisxg1v3 runAppManager.sh[24623]: 1127 void cricket::BasicPortAllocatorSession::MaybeSignalCandidatesAllocationDone() KKP
+2020 Feb 04 07:01:58.293484 arrisxg1v3 runAppManager.sh[24623]: 551 virtual bool cricket::BasicPortAllocatorSession::CandidatesAllocationDone() const KKP
+2020 Feb 04 07:01:58.294355 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA:signalcandidateallocationdone1
+2020 Feb 04 07:01:58.295300 arrisxg1v3 runAppManager.sh[24623]:  balaji All candidates gathered for video:1:0
+2020 Feb 04 07:01:58.296201 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA:Maybesignalcandidateallocationdone1
+2020 Feb 04 07:01:58.297097 arrisxg1v3 runAppManager.sh[24623]:  balaji P2PTransportChannel: video, component 1 gathering complete
+2020 Feb 04 07:01:58.298034 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA:Maybesignalcandidateallocationdone2
+2020 Feb 04 07:01:58.298927 arrisxg1v3 runAppManager.sh[24623]:  balaji KKP_AA:Maybesignalcandidateallocationdone737 virtual void WebCore::LibWebRTCMediaEndpoint::OnIceGatheringChange(webrtc::PeerConnectionInterface::IceGatheringState) KKP
+2020 Feb 04 07:01:58.299817 arrisxg1v3 runAppManager.sh[24623]: 483 void WebCore::PeerConnectionBackend::doneGatheringCandidates() balaji
+2020 Feb 04 07:01:58.301552 arrisxg1v3 runAppManager.sh[24623]: 527 void WebCore::RTCPeerConnection::updateIceGatheringState(WebCore::RTCIceGatheringState) balaji
+2020 Feb 04 07:01:58.302185 arrisxg1v3 runAppManager.sh[24623]: 557 void WebCore::RTCPeerConnection::updateConnectionState() balaji
+2020 Feb 04 07:01:59.485739 arrisxg1v3 runAppManager.sh[24623]: broadcast for surfaceId 2 name noname
+2020 Feb 04 07:01:59.869138 arrisxg1v3 runAppManager.sh[24623]:  balaji Socket::OPT_DSCP not supported.
+2020 Feb 04 07:01:59.869785 arrisxg1v3 runAppManager.sh[24623]:  balaji Socket::OPT_DSCP not supported.
+2020 Feb 04 07:01:59.870414 arrisxg1v3 runAppManager.sh[24623]:  balaji Socket::OPT_DSCP not supported.
+2020 Feb 04 07:01:59.871068 arrisxg1v3 runAppManager.sh[24623]:  balaji Socket::OPT_DSCP not supported.228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:01:59.871700 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:01.870702 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:01.871364 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:03.873080 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:03.873748 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:05.873239 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:05.873980 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:06.114737 arrisxg1v3 Receiver[25043]:  Thread-25043 [AAMP-WEB] - requesting memory release for web view 0xfbf758
+2020 Feb 04 07:02:07.874941 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:07.875600 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:09.878179 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:09.878837 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:11.881103 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:11.881769 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:13.883248 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:13.883882 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:15.886273 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:15.886974 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:17.887330 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:17.888048 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:19.889976 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:19.890730 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:21.891092 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:21.891785 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:23.893032 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:23.893728 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:25.895500 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:25.896230 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:27.898794 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:27.899397 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:28.653137 arrisxg1v3 Receiver[25043]: [78B blob data]
+2020 Feb 04 07:02:28.653228 arrisxg1v3 Receiver[25043]: [92B blob data]
+2020 Feb 04 07:02:28.653408 arrisxg1v3 Receiver[25043]:  Thread-25579 [LocalInput] - XREKeyPressLog IR KEY 85 8000 received
+2020 Feb 04 07:02:28.653649 arrisxg1v3 Receiver[25043]:  Thread-25579 [LocalInput] - XREKeyPressLog XRE Stack Adapter processKey enter with key=0x85 and type=down
+2020 Feb 04 07:02:28.655097 arrisxg1v3 Receiver[25043]:  Thread-25043 [CEventDispatcher] - There is no keyevent handler registered for the Preview view. Dropping the key events for the application shell:homeApp
+2020 Feb 04 07:02:28.655212 arrisxg1v3 Receiver[25043]:  Thread-25043 [CEventDispatcher] - There is no keyevent handler registered for the Standard view. Dropping the key events.
+2020 Feb 04 07:02:28.655325 arrisxg1v3 Receiver[25043]:  Thread-25043 [ApplicationResource] - sending echo event with id: 10
+2020 Feb 04 07:02:28.656654 arrisxg1v3 Receiver[25043]:  Thread-25043 [ApplicationResource] - sending echo event with id: 11
+2020 Feb 04 07:02:28.656995 arrisxg1v3 Receiver[25043]:  Thread-25043 [ApplicationResource] - sending echo event with id: 12
+2020 Feb 04 07:02:28.657424 arrisxg1v3 Receiver[25043]:  Thread-29759 [ECM] - XREKeyPressLog Keyevent sent to server: {"timestamp":1580799748655,"phase":"PREVIEW","event":146,"name":"onPreviewKeyDown","source":2129,"params":{"keySource":"physical","meta":false,"control":false,"shift":false,"tid":"14d180c3-cf0c-4c93-ba10-aee306395b29","alt":false,"virtualKeyCode":"ENTER","elapsedMs":2818056,"rawCode":0},"handler":2}
+2020 Feb 04 07:02:28.657729 arrisxg1v3 Receiver[25043]:  Thread-4458 [ECM] - XREKeyPressLog Keyevent sent to server: {"timestamp":1580799748656,"phase":"PREVIEW","event":106,"name":"onPreviewKeyDown","source":2141,"params":{"keySource":"physical","meta":false,"control":false,"shift":false,"tid":"14d180c3-cf0c-4c93-ba10-aee306395b29","alt":false,"virtualKeyCode":"ENTER","elapsedMs":327685,"rawCode":0},"handler":2}
+2020 Feb 04 07:02:28.664778 arrisxg1v3 Receiver[25043]:  Thread-29759 [ECM] - XREKeyPressLog Keyevent sent to server: {"timestamp":1580799748663,"phase":"PREVIEW","event":147,"name":"onPreviewKeyDown","source":2129,"params":{"keySource":"physical","meta":false,"control":false,"shift":false,"tid":"14d180c3-cf0c-4c93-ba10-aee306395b29","alt":false,"virtualKeyCode":"ENTER","elapsedMs":5,"rawCode":0},"handler":2049}
+2020 Feb 04 07:02:28.751525 arrisxg1v3 Receiver[25043]: [78B blob data]
+2020 Feb 04 07:02:28.751654 arrisxg1v3 Receiver[25043]: [92B blob data]
+2020 Feb 04 07:02:28.752110 arrisxg1v3 Receiver[25043]:  Thread-25579 [LocalInput] - XREKeyPressLog IR KEY 85 8100 received
+2020 Feb 04 07:02:28.752336 arrisxg1v3 Receiver[25043]:  Thread-25579 [LocalInput] - XREKeyPressLog XRE Stack Adapter processKey enter with key=0x85 and type=up
+2020 Feb 04 07:02:28.753292 arrisxg1v3 Receiver[25043]:  Thread-25043 [CEventDispatcher] - There is no keyevent handler registered for the Preview view. Dropping the key events for the application shell:homeApp
+2020 Feb 04 07:02:28.753404 arrisxg1v3 Receiver[25043]:  Thread-25043 [CEventDispatcher] - There is no keyevent handler registered for the Standard view. Dropping the key events.
+2020 Feb 04 07:02:29.187728 arrisxg1v3 Receiver[25043]:  Thread-25043 [Commands] - Echo response received for guid 10 - totalTime = 522 sendTime = 946 receiveTime = -424 networkTime = 522 serverTime = 0
+2020 Feb 04 07:02:29.187850 arrisxg1v3 Receiver[25043]:  Thread-25043 [Commands] - Echo response received for guid 11 - totalTime = 521 sendTime = 945 receiveTime = -424 networkTime = 521 serverTime = 0
+2020 Feb 04 07:02:29.188088 arrisxg1v3 Receiver[25043]:  Thread-25043 [Commands] - Echo response received for guid 12 - totalTime = 520 sendTime = 944 receiveTime = -424 networkTime = 520 serverTime = 0
+2020 Feb 04 07:02:29.900725 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:29.901377 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:31.901855 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:31.902473 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:33.904924 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:33.905556 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:35.907863 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:35.908473 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:37.910916 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:37.911536 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:39.913156 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:39.913788 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:41.916060 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:41.916731 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:42.771134 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d04b8:video:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port deleted1145 void cricket::BasicPortAllocatorSession::OnPortDestroyed(cricket::PortInterface*) KKP
+2020 Feb 04 07:02:42.772006 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d04b8:video:1:0:relay:Net[any:0.0.0.x/0:Wildcard:id=0]]: Removed port from allocator (5 remaining)
+2020 Feb 04 07:02:42.772596 arrisxg1v3 runAppManager.sh[24623]:  balaji Port[6f9d0970:video:1:0:relay:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port deleted1145 void cricket::BasicPortAllocatorSession::OnPortDestroyed(cricket::PortInterface*) KKP
+2020 Feb 04 07:02:43.918345 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:43.919281 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:45.921550 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:45.922202 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:47.923241 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:47.924018 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:49.925312 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:49.926051 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:51.928457 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:51.929250 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:53.931162 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:53.931891 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:55.933097 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:55.933863 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:57.934852 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:57.935468 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:59.937235 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:02:59.937903 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:01.939447 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:01.940099 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:03.942423 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:03.943068 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:05.945408 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:05.946171 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:07.948130 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:07.948865 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:09.951265 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:09.952255 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:11.953263 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:11.954006 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:13.956329 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:13.957211 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:15.959402 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:15.960113 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:17.962424 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:17.963235 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:19.965413 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:19.966066 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:21.968455 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:21.969174 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:23.971445 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:23.972205 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:25.974507 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:25.975214 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:27.977776 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:27.978402 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:29.980286 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:29.980933 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:31.980578 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:31.981234 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:33.981787 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:33.982405 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:35.984162 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:35.984905 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:37.987144 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:37.987866 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:39.990202 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:39.990853 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:41.992054 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:41.992713 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:43.994913 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+2020 Feb 04 07:03:43.995769 arrisxg1v3 runAppManager.sh[24623]: 228 virtual int rtc::PhysicalSocket::Connect(const rtc::SocketAddress&) KKP
+^C
+root@arrisxg1v3:/opt/logs#
